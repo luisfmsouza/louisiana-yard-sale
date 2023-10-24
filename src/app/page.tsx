@@ -121,7 +121,7 @@ interface ProductListProps {
 
 const Header = () => (
   <>
-    <header className={styles.header}>Luis & Ana Yard Sale! 🇳🇱 ✈️ 🗺️</header>
+    <header className={styles.header}>Luis & Ana Garage Sale! 🇳🇱 ✈️ 🗺️</header>
 
     <h3 className={styles.h3}>
       Raki is selling some of his humans stuff, if you are interested in
