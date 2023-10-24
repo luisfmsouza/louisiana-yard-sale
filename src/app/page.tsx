@@ -232,7 +232,7 @@ const ProductCard = ({product}: {product: Product}) => {
       <div onClick={goWhatsapp} className={styles.boxPrice}>
         <span className={styles.price}>{formatPrice(p.price)}</span>
         <div className={styles.box}>
-          <img className={styles.icon} src="./whatsapp-icon.png" />
+          <Image className={styles.icon} src="/icon/whatsapp.png" alt="WhatsApp" width={26} height={26} />
           <button className={styles.payment}>Comprar</button>
         </div>
       </div>
