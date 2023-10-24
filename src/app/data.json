@@ -2,7 +2,7 @@
   {
     "name": "Raki",
     "url": "img/cat.jpeg",
-    "imageUrl": "img/cat.jpeg",
+    "imageUrl": "/img/cat.jpeg",
     "originalPrice": 4000000,
     "price": 20000000,
     "details": [],
@@ -12,7 +12,7 @@
   {
     "name": "Ladder",
     "url": "img/ladder.jpeg",
-    "imageUrl": "img/ladder.jpeg",
+    "imageUrl": "/img/ladder.jpeg",
     "originalPrice": 33240,
     "price": 15000,
     "details": [
@@ -25,7 +25,7 @@
   {
     "name": "Milk Froather",
     "url": "img/milk_froath.jpeg",
-    "imageUrl": "img/milk_froath.jpeg",
+    "imageUrl": "/img/milk_froath.jpeg",
     "originalPrice": 2995000,
     "price": 2600000,
     "details": [
@@ -40,7 +40,7 @@
   {
     "name": "Ikea Office Desk",
     "url": "img/office_desk.jpeg",
-    "imageUrl": "img/office_desk.jpeg",
+    "imageUrl": "/img/office_desk.jpeg",
     "originalPrice": 198000,
     "price": 85000,
     "details": [
@@ -54,7 +54,7 @@
   },
   {
     "name": "Ikea Trolley",
-    "imageUrl": "img/trolley.jpeg",
+    "imageUrl": "/img/trolley.jpeg",
     "url": "img/trolley.jpeg",
     "originalPrice": 350000,
     "price": 270000,
@@ -69,7 +69,7 @@
   {
     "name": "Eufy Vaccum Robot",
     "url": "img/vaccum_robot.jpeg",
-    "imageUrl": "img/vaccum_robot.jpeg",
+    "imageUrl": "/img/vaccum_robot.jpeg",
     "originalPrice": 250000,
     "price": 150000,
     "details": [
@@ -83,7 +83,7 @@
   {
     "name": "Whiteboard",
     "url": "img/whiteboard.jpeg",
-    "imageUrl": "img/whiteboard.jpeg",
+    "imageUrl": "/img/whiteboard.jpeg",
     "originalPrice": 300000,
     "price": 180000,
     "details": [

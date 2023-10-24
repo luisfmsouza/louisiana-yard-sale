@@ -178,7 +178,7 @@ const ProductCard = ({ product }: { product: Product }) => {
 
             <Image
               className={styles.productImgFilterSold}
-              src={`/${p.imageUrl}`}
+              src={p.imageUrl}
               alt={p.name}
               loading="lazy"
               width={350}
@@ -191,10 +191,13 @@ const ProductCard = ({ product }: { product: Product }) => {
         {p.state == "reserved" ? (
           <span className={styles.productSpan}>
             <div className={styles.reserved}>RESERVADO</div>
-            <img
+            <Image
               className={styles.productImgFilterReserved}
               src={p.imageUrl}
+              alt={p.name}
               loading="lazy"
+              width={350}
+              height={350}
             />
           </span>
         ) : (
@@ -203,10 +206,13 @@ const ProductCard = ({ product }: { product: Product }) => {
         {p.state == "notavailable" ? (
           <span className={styles.productSpan}>
             <div className={styles.notavailable}>NO DISPONIBLE</div>
-            <img
+            <Image
               className={styles.productImgFilterNotAvailable}
               src={p.imageUrl}
+              alt={p.name}
               loading="lazy"
+              width={350}
+              height={350}
             />
           </span>
         ) : (
@@ -215,16 +221,20 @@ const ProductCard = ({ product }: { product: Product }) => {
         {p.state == "available" ? (
           <span className={styles.productSpan}>
             <div className={styles.available}>DISPONIBLE</div>
-            <img
+            <Image
               className={styles.productImg}
               src={p.imageUrl}
+              alt={p.name}
               loading="lazy"
+              width={350}
+              height={350}
             />
           </span>
         ) : (
           ""
         )}
       </a>
+
       <div className={styles.productDetails}>
         <h3>{p.name}</h3>
         {discount > 0 && <span className={styles.discount}>-{discount}%</span>}
@@ -234,6 +244,7 @@ const ProductCard = ({ product }: { product: Product }) => {
           ))}
         </ul>
       </div>
+
       <div onClick={goWhatsapp} className={styles.boxPrice}>
         <span className={styles.price}>{formatPrice(p.price)}</span>
         <div className={styles.box}>
