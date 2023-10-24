@@ -8,16 +8,14 @@
   text-transform: uppercase;
 }
 
-.subtitle {
+.h3 {
   padding: 0 0.5rem 0;
   text-align: center;
 }
 
-.subtitle h4 {
-  font-weight: lighter;
-  font-style: italic;
-  font-size: smaller;
-  color: orangered;
+.h4 {
+  font-weight: 300;
+  text-align: center;
 }
 
 .container {
@@ -25,6 +23,7 @@
   justify-content: space-evenly;
   flex-wrap: wrap;
   align-items: flex-start;
+  margin-top: 50px;
 }
 
 .product {

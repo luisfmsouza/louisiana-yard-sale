@@ -1,8 +1,8 @@
-'use client'
+"use client";
 
-import Image from 'next/image'
-import styles from './page.module.css'
-import products from './data.json'
+import Image from "next/image";
+import styles from "./page.module.css";
+import products from "./data.json";
 
 // export default function Home() {
 //   return (
@@ -119,40 +119,41 @@ interface ProductListProps {
   products: Product[];
 }
 
+const Header = () => (
+  <>
+    <header className={styles.header}>Luis & Ana Yard Sale! 🇳🇱 ✈️ 🗺️</header>
+
+    <h3 className={styles.h3}>
+      Raki is selling some of his humans stuff, if you are interested in
+      something, please contact via WhatsApp.
+    </h3>
+    <h4 className={styles.h4}>
+      Click the product image to see the original items.
+    </h4>
+  </>
+);
+
+const ProductList = ({ products }: ProductListProps) => (
+  <div className={styles.container}>
+    {products?.map((product, index) => (
+      <ProductCard key={index} product={product} />
+    ))}
+  </div>
+);
+
 export default function Home() {
   const typedProducts = products as Product[];
 
   return (
     <div>
-      <header className={styles.header}>
-        Venta de Cositas de
-        <br />
-        Milena & Julian
-      </header>
-      <h3 className={styles.subtitle}>
-        Se aceptan pagos por Nequi, Colpatria, Efectivo o Paypal. Solo Bogota.
-        <h4>(Algunas fechas de entrega podrian variar por algunos días)</h4>
-        <p>
-          Al hacer clic/tocar sobre las imagenes encontrás mas información de
-          producto
-        </p>
-      </h3>
+      <Header />
+
       <ProductList products={typedProducts} />
     </div>
   );
 }
 
-const ProductList = ({products}: ProductListProps) => {
-  return (
-    <div className={styles.container}>
-      {products?.map((p, i) => (
-        <ProductCard key={i} product={p} />
-      ))}
-    </div>
-  );
-};
-
-const ProductCard = ({product}: {product: Product}) => {
+const ProductCard = ({ product }: { product: Product }) => {
   const p = product;
   const formatPrice = (price: number) =>
     price.toLocaleString("es-CO", {
@@ -214,7 +215,11 @@ const ProductCard = ({product}: {product: Product}) => {
         {p.state == "available" ? (
           <span className={styles.productSpan}>
             <div className={styles.available}>DISPONIBLE</div>
-            <img className={styles.productImg} src={p.imageUrl} loading="lazy" />
+            <img
+              className={styles.productImg}
+              src={p.imageUrl}
+              loading="lazy"
+            />
           </span>
         ) : (
           ""
@@ -232,11 +237,16 @@ const ProductCard = ({product}: {product: Product}) => {
       <div onClick={goWhatsapp} className={styles.boxPrice}>
         <span className={styles.price}>{formatPrice(p.price)}</span>
         <div className={styles.box}>
-          <Image className={styles.icon} src="/icon/whatsapp.png" alt="WhatsApp" width={26} height={26} />
+          <Image
+            className={styles.icon}
+            src="/icon/whatsapp.png"
+            alt="WhatsApp"
+            width={26}
+            height={26}
+          />
           <button className={styles.payment}>Comprar</button>
         </div>
       </div>
     </div>
   );
 };
-
