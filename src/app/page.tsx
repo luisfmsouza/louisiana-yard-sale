@@ -165,7 +165,7 @@ const ProductCard = ({ product }: { product: Product }) => {
 
   const goWhatsapp = () =>
     window.open(
-      `https://api.whatsapp.com/send?phone=+573006815916&text=Hola%2C%20estoy interesado en%20${p.name}`,
+      `https://api.whatsapp.com/send?phone=+31626381235&text=Hola%2C%20estoy interesado en%20${p.name}`,
       "_blank"
     );
 
