@@ -97,45 +97,68 @@ import products from './data.json'
 //   )
 // }
 
+enum ProduceState {
+  available = "available",
+  reserved = "reserved",
+  sold = "sold",
+  notavailable = "notavailable",
+}
+
+interface Product {
+  name: string;
+  price: number;
+  originalPrice: number;
+  details: string[];
+  imageUrl: string;
+  url: string;
+  state: ProduceState;
+  purchaser: string;
+}
+
+interface ProductListProps {
+  products: Product[];
+}
 
 export default function Home() {
-    return (
-      <div>
-        <header className={styles.header}>
-          Venta de Cositas de
-          <br />
-          Milena & Julian
-        </header>
-        <h3 className={styles.subtitle}>
-          Se aceptan pagos por Nequi, Colpatria, Efectivo o Paypal. Solo Bogota.
-          <h4>(Algunas fechas de entrega podrian variar por algunos días)</h4>
-          <p>
-            Al hacer clic/tocar sobre las imagenes encontrás mas información de
-            producto
-          </p>
-        </h3>
-        <ProductList products={products} />
-      </div>
-    );
-  }
+  const typedProducts = products as Product[];
 
-const ProductList = (props) => {
+  return (
+    <div>
+      <header className={styles.header}>
+        Venta de Cositas de
+        <br />
+        Milena & Julian
+      </header>
+      <h3 className={styles.subtitle}>
+        Se aceptan pagos por Nequi, Colpatria, Efectivo o Paypal. Solo Bogota.
+        <h4>(Algunas fechas de entrega podrian variar por algunos días)</h4>
+        <p>
+          Al hacer clic/tocar sobre las imagenes encontrás mas información de
+          producto
+        </p>
+      </h3>
+      <ProductList products={typedProducts} />
+    </div>
+  );
+}
+
+const ProductList = ({products}: ProductListProps) => {
   return (
     <div className={styles.container}>
-      {props.products?.map((p, i) => (
+      {products?.map((p, i) => (
         <ProductCard key={i} product={p} />
       ))}
     </div>
   );
 };
 
-const ProductCard = (props) => {
-  const p = props.product;
-  const formatPrice = (p) =>
-    p.toLocaleString("es-CO", {
+const ProductCard = ({product}: {product: Product}) => {
+  const p = product;
+  const formatPrice = (price: number) =>
+    price.toLocaleString("es-CO", {
       style: "currency",
       currency: "COP",
-      maximumFractionDigits: "0",
+      maximumFractionDigits: 0,
     });
   const discount = Math.round(100 - (p.price / p.originalPrice) * 100);
 
@@ -201,8 +224,8 @@ const ProductCard = (props) => {
         <h3>{p.name}</h3>
         {discount > 0 && <span className={styles.discount}>-{discount}%</span>}
         <ul>
-          {p.details.map((detail) => (
-            <li>{detail}</li>
+          {p.details.map((detail, index) => (
+            <li key={index}>{detail}</li>
           ))}
         </ul>
       </div>
