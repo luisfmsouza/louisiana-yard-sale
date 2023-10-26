@@ -11,34 +11,41 @@
   },
   {
     "name": "Ladder",
-    "url": "img/ladder.jpeg",
+    "url": "https://www.blokker.nl/blokker-huishoudtrap---5-treden/3419969.html",
     "imageUrl": "/img/ladder.jpeg",
-    "originalPrice": 33240,
-    "price": 15000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Un uso"
-    ],
+    "originalPrice": 69.99,
+    "price": 30,
+    "details": [],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Milk Froather",
-    "url": "img/milk_froath.jpeg",
+    "name": "Induction Milk Frother",
+    "url": "https://www.bol.com/nl/nl/p/severin-sm-3585-inductiemelkopschuimer-spuma-500/9200000124030472/?s2a=",
     "imageUrl": "/img/milk_froath.jpeg",
-    "originalPrice": 2995000,
-    "price": 2600000,
+    "originalPrice": 79.99,
+    "price": 40,
+    "details": [],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea BEKANT - Standing desk",
+    "url": "https://www.ikea.com/nl/en/p/bekant-desk-sit-stand-black-stained-ash-veneer-black-s99281812/#content",
+    "imageUrl": "/img/office_desk.jpeg",
+    "originalPrice": 469,
+    "price": 300,
     "details": [
       "ENTREGA INMEDIATA",
-      "Camara Mirrorless con muy poco uso, perfecto estado 10/10",
-      "Se entrega: Camara E-M10 Mark III plateada, Lente M. Zuiko Digital 14-42mm 3.5 a 5.6, Correa original, Bateria, Cargador, Maletin Original Olympus, Cable de datos, Tarjeta, Tarjeta Sandisk SD 16 GB",
+      "Compatible con Bluetooth o Logitech Unifying",
+      "Soporte de conexion a 3 dispositivos",
       "Excelente estado"
     ],
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
-    "name": "Ikea Office Desk",
+    "name": "Office Desk 2",
     "url": "img/office_desk.jpeg",
     "imageUrl": "/img/office_desk.jpeg",
     "originalPrice": 198000,
@@ -50,14 +57,14 @@
       "Excelente estado"
     ],
     "state": "reserved",
-    "purchaser": "24"
+    "purchaser": "id"
   },
   {
-    "name": "Ikea Trolley",
+    "name": "Ikea FÖRHÖJA - Kitchen trolley",
+    "url": "https://www.ikea.com/nl/en/p/foerhoeja-kitchen-trolley-birch-80035920/",
     "imageUrl": "/img/trolley.jpeg",
-    "url": "img/trolley.jpeg",
-    "originalPrice": 350000,
-    "price": 270000,
+    "originalPrice": 129,
+    "price": 65,
     "details": [
       "ENTREGA 08 de Septiembre",
       "Profundida 60cm ancho 110cm altura 74cm",
@@ -67,31 +74,97 @@
     "purchaser": "10"
   },
   {
-    "name": "Eufy Vaccum Robot",
-    "url": "img/vaccum_robot.jpeg",
+    "name": "RoboVac G10 Hybrid - Eufy",
+    "url": "https://nl.eufy.com/products/t2150311",
     "imageUrl": "/img/vaccum_robot.jpeg",
-    "originalPrice": 250000,
-    "price": 150000,
+    "originalPrice": 199.99,
+    "price": 100,
     "details": [
       "ENTREGA INMEDIATA",
       "Impermeable, blanca, 1.3 KG, Alto: 105cm - Largo: 200cm - Ancho: 120cm",
       "Como nueva!"
     ],
     "state": "available",
-    "purchaser": "23"
+    "purchaser": "id"
   },
   {
-    "name": "Whiteboard",
-    "url": "img/whiteboard.jpeg",
+    "name": "Nobo Whiteboard",
+    "url": "https://www.amazon.nl/gp/product/B01LWRKZZ1/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1",
     "imageUrl": "/img/whiteboard.jpeg",
     "originalPrice": 300000,
     "price": 180000,
-    "details": [
-      "ENTREGA 08 de Septiembre",
-      "Sillas graduables en altura",
-      "Como nuevas!"
-    ],
+    "details": ["90 x 60 cm", "non-magnetic", "4 pens", "1 eraser"],
     "state": "available",
     "purchaser": "8"
+  },
+  {
+    "name": "Home Office Chair Black",
+    "url": "https://www.bureaustoel24.nl/breton-b-thuisgebruik-bureaustoel.html",
+    "imageUrl": "/img/office_chair.jpg",
+    "originalPrice": 205,
+    "price": 100,
+    "details": [],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "BAMBOO Mirror",
+    "url": "https://nl.casashops.com/nl/producten/bamboo-passpiegel-632044/632044/",
+    "imageUrl": "/img/mirror.jpeg",
+    "originalPrice": 119,
+    "price": 55,
+    "details": [],
+    "state": "reserved",
+    "purchaser": "id"
+  },
+  {
+    "name": "Massage Gun - Tunturi",
+    "url": "https://www.coolblue.nl/product/872227/tunturi-massage-gun.html",
+    "imageUrl": "/img/massage_gun.jpeg",
+    "originalPrice": 107,
+    "price": 55,
+    "details": [],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Slow Cooker",
+    "url": "https://shop.action.com/nl-nl/p/8720195388968/magnani-slowcooker-3-5-liter",
+    "imageUrl": "/img/slow_cooker.jpg",
+    "originalPrice": 45,
+    "price": 20,
+    "details": ["3,5 liters"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Wall Coat Rack Bram",
+    "url": "https://www.volero.nl/kapstok-bram-zwart.html",
+    "imageUrl": "/img/coat_rack.jpeg",
+    "originalPrice": 49.95,
+    "price": 15,
+    "details": [],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Shoe storage",
+    "url": "https://www.bureaustoel24.nl/breton-b-thuisgebruik-bureaustoel.html",
+    "imageUrl": "/img/massage_gun.jpeg",
+    "originalPrice": 205,
+    "price": 100,
+    "details": [],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Vicco Washbasin cabinet",
+    "url": "https://www.amazon.nl/gp/product/B08TMKB9JD/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1",
+    "imageUrl": "/img/washbasin_cabinet.jpg",
+    "originalPrice": 85.9,
+    "price": 40,
+    "details": [],
+    "state": "available",
+    "purchaser": "id"
   }
 ]
