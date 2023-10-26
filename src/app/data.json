@@ -3,30 +3,10 @@
     "name": "Raki",
     "url": "img/cat.jpeg",
     "imageUrl": "/img/cat.jpeg",
-    "originalPrice": 4000000,
+    "originalPrice": 40000000,
     "price": 20000000,
     "details": [],
     "state": "notavailable",
-    "purchaser": "id"
-  },
-  {
-    "name": "Ladder",
-    "url": "https://www.blokker.nl/blokker-huishoudtrap---5-treden/3419969.html",
-    "imageUrl": "/img/ladder.jpeg",
-    "originalPrice": 69.99,
-    "price": 30,
-    "details": [],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Induction Milk Frother",
-    "url": "https://www.bol.com/nl/nl/p/severin-sm-3585-inductiemelkopschuimer-spuma-500/9200000124030472/?s2a=",
-    "imageUrl": "/img/milk_froath.jpeg",
-    "originalPrice": 79.99,
-    "price": 40,
-    "details": [],
-    "state": "available",
     "purchaser": "id"
   },
   {
@@ -41,37 +21,18 @@
       "Soporte de conexion a 3 dispositivos",
       "Excelente estado"
     ],
-    "state": "reserved",
-    "purchaser": "id"
-  },
-  {
-    "name": "Office Desk 2",
-    "url": "img/office_desk.jpeg",
-    "imageUrl": "/img/office_desk.jpeg",
-    "originalPrice": 198000,
-    "price": 85000,
-    "details": [
-      "ENTREGA INMEDIATA",
-      "Compatible con Bluetooth o Logitech Unifying",
-      "Soporte de conexion a 3 dispositivos",
-      "Excelente estado"
-    ],
-    "state": "reserved",
-    "purchaser": "id"
-  },
-  {
-    "name": "Ikea FÖRHÖJA - Kitchen trolley",
-    "url": "https://www.ikea.com/nl/en/p/foerhoeja-kitchen-trolley-birch-80035920/",
-    "imageUrl": "/img/trolley.jpeg",
-    "originalPrice": 129,
-    "price": 65,
-    "details": [
-      "ENTREGA 08 de Septiembre",
-      "Profundida 60cm ancho 110cm altura 74cm",
-      "Como nuevo!"
-    ],
     "state": "available",
-    "purchaser": "10"
+    "purchaser": "id"
+  },
+  {
+    "name": "Office Desk",
+    "url": "img/office_desk_2.jpeg",
+    "imageUrl": "/img/office_desk_2.jpeg",
+    "originalPrice": 400,
+    "price": 200,
+    "details": [],
+    "state": "reserved",
+    "purchaser": "id"
   },
   {
     "name": "RoboVac G10 Hybrid - Eufy",
@@ -88,16 +49,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Nobo Whiteboard",
-    "url": "https://www.amazon.nl/gp/product/B01LWRKZZ1/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1",
-    "imageUrl": "/img/whiteboard.jpeg",
-    "originalPrice": 300000,
-    "price": 180000,
-    "details": ["90 x 60 cm", "non-magnetic", "4 pens", "1 eraser"],
-    "state": "available",
-    "purchaser": "8"
-  },
-  {
     "name": "Home Office Chair Black",
     "url": "https://www.bureaustoel24.nl/breton-b-thuisgebruik-bureaustoel.html",
     "imageUrl": "/img/office_chair.jpg",
@@ -106,6 +57,20 @@
     "details": [],
     "state": "available",
     "purchaser": "id"
+  },
+  {
+    "name": "Ikea FÖRHÖJA - Kitchen trolley",
+    "url": "https://www.ikea.com/nl/en/p/foerhoeja-kitchen-trolley-birch-80035920/",
+    "imageUrl": "/img/trolley.jpeg",
+    "originalPrice": 129,
+    "price": 65,
+    "details": [
+      "ENTREGA 08 de Septiembre",
+      "Profundida 60cm ancho 110cm altura 74cm",
+      "Como nuevo!"
+    ],
+    "state": "available",
+    "purchaser": "10"
   },
   {
     "name": "BAMBOO Mirror",
@@ -128,6 +93,56 @@
     "purchaser": "id"
   },
   {
+    "name": "Induction Milk Frother",
+    "url": "https://www.bol.com/nl/nl/p/severin-sm-3585-inductiemelkopschuimer-spuma-500/9200000124030472/?s2a=",
+    "imageUrl": "/img/milk_froath.jpeg",
+    "originalPrice": 79.99,
+    "price": 40,
+    "details": [],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Vicco Washbasin cabinet",
+    "url": "https://www.amazon.nl/gp/product/B08TMKB9JD/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1",
+    "imageUrl": "/img/washbasin_cabinet.jpg",
+    "originalPrice": 85.9,
+    "price": 40,
+    "details": [],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Shoe cabinet",
+    "url": "https://www.bol.com/nl/nl/p/schoenenrek-schoenen-organisator-met-3-strak-gemaasde-gaasplanken-industriele-stijl-vintage-bruin-zwart/9300000150732690/?Referrer=NLGOOFS",
+    "imageUrl": "/img/shoe_cabinet.jpeg",
+    "originalPrice": 75,
+    "price": 35,
+    "details": ["100 x 30 x 72 cm"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ladder",
+    "url": "https://www.blokker.nl/blokker-huishoudtrap---5-treden/3419969.html",
+    "imageUrl": "/img/ladder.jpeg",
+    "originalPrice": 69.99,
+    "price": 30,
+    "details": [],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Nobo Whiteboard",
+    "url": "https://www.amazon.nl/gp/product/B01LWRKZZ1/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1",
+    "imageUrl": "/img/whiteboard.jpeg",
+    "originalPrice": 41,
+    "price": 20,
+    "details": ["90 x 60 cm", "non-magnetic", "4 pens", "1 eraser"],
+    "state": "available",
+    "purchaser": "8"
+  },
+  {
     "name": "Slow Cooker",
     "url": "https://shop.action.com/nl-nl/p/8720195388968/magnani-slowcooker-3-5-liter",
     "imageUrl": "/img/slow_cooker.jpg",
@@ -143,26 +158,6 @@
     "imageUrl": "/img/coat_rack.jpeg",
     "originalPrice": 49.95,
     "price": 15,
-    "details": [],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Shoe storage",
-    "url": "https://www.bureaustoel24.nl/breton-b-thuisgebruik-bureaustoel.html",
-    "imageUrl": "/img/massage_gun.jpeg",
-    "originalPrice": 205,
-    "price": 100,
-    "details": [],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Vicco Washbasin cabinet",
-    "url": "https://www.amazon.nl/gp/product/B08TMKB9JD/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1",
-    "imageUrl": "/img/washbasin_cabinet.jpg",
-    "originalPrice": 85.9,
-    "price": 40,
     "details": [],
     "state": "available",
     "purchaser": "id"
