@@ -156,9 +156,9 @@ export default function Home() {
 const ProductCard = ({ product }: { product: Product }) => {
   const p = product;
   const formatPrice = (price: number) =>
-    price.toLocaleString("es-CO", {
+    price.toLocaleString("nl-NL", {
       style: "currency",
-      currency: "COP",
+      currency: "EUR",
       maximumFractionDigits: 0,
     });
   const discount = Math.round(100 - (p.price / p.originalPrice) * 100);
@@ -166,7 +166,7 @@ const ProductCard = ({ product }: { product: Product }) => {
   const goWhatsapp = () =>
     window.open(
       `https://api.whatsapp.com/send?phone=+31626381235&text=Hola%2C%20estoy interesado en%20${p.name}`,
-      "_blank"
+      "_blank",
     );
 
   return (
@@ -174,7 +174,7 @@ const ProductCard = ({ product }: { product: Product }) => {
       <a href={p.url} target="_blank">
         {p.state == "sold" ? (
           <span className={styles.productSpan}>
-            <div className={styles.sold}>VENDIDO</div>
+            <div className={styles.sold}>SOLD</div>
 
             <Image
               className={styles.productImgFilterSold}
@@ -190,7 +190,7 @@ const ProductCard = ({ product }: { product: Product }) => {
         )}
         {p.state == "reserved" ? (
           <span className={styles.productSpan}>
-            <div className={styles.reserved}>RESERVADO</div>
+            <div className={styles.reserved}>RESERVED</div>
             <Image
               className={styles.productImgFilterReserved}
               src={p.imageUrl}
@@ -205,7 +205,7 @@ const ProductCard = ({ product }: { product: Product }) => {
         )}
         {p.state == "notavailable" ? (
           <span className={styles.productSpan}>
-            <div className={styles.notavailable}>NO DISPONIBLE</div>
+            <div className={styles.notavailable}>NOT AVAILABLE</div>
             <Image
               className={styles.productImgFilterNotAvailable}
               src={p.imageUrl}
@@ -220,7 +220,7 @@ const ProductCard = ({ product }: { product: Product }) => {
         )}
         {p.state == "available" ? (
           <span className={styles.productSpan}>
-            <div className={styles.available}>DISPONIBLE</div>
+            <div className={styles.available}>AVAILABLE</div>
             <Image
               className={styles.productImg}
               src={p.imageUrl}
@@ -255,7 +255,7 @@ const ProductCard = ({ product }: { product: Product }) => {
             width={26}
             height={26}
           />
-          <button className={styles.payment}>Comprar</button>
+          <button className={styles.payment}>BUY</button>
         </div>
       </div>
     </div>
