@@ -163,11 +163,13 @@ const ProductCard = ({ product }: { product: Product }) => {
     });
   const discount = Math.round(100 - (p.price / p.originalPrice) * 100);
 
-  const goWhatsapp = () =>
-    window.open(
-      `https://api.whatsapp.com/send?phone=+31626381235&text=Hola%2C%20estoy interesado en%20${p.name}`,
-      "_blank",
-    );
+  const goWhatsapp = () => {
+    const phoneNumber = "+31626381235";
+    const message = `Hey, I'm interested in: ${p.name}!`;
+    const url = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${message}`;
+
+    return window.open(url, "_blank");
+  };
 
   return (
     <div className={styles.product}>
