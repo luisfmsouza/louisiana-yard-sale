@@ -113,7 +113,7 @@
     "originalPrice": 75,
     "price": 35,
     "details": ["100 x 30 x 72 cm"],
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
@@ -173,7 +173,7 @@
     "originalPrice": 79,
     "price": 40,
     "details": [],
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   }
 ]
