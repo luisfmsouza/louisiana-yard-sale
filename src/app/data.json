@@ -155,5 +155,25 @@
     "details": [],
     "state": "available",
     "purchaser": "id"
+  },
+  {
+    "name": "Forclaz 40L backpack",
+    "url": "https://decathlon.ae/products/travel-backpack-40l?variant=37878822207678",
+    "imageUrl": "/img/backpack_40l_red.png",
+    "originalPrice": 79,
+    "price": 40,
+    "details": [],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Forclaz 40L backpack",
+    "url": "https://decathlon.ae/products/travel-backpack-40l?variant=37878841082046",
+    "imageUrl": "/img/backpack_40l.png",
+    "originalPrice": 79,
+    "price": 40,
+    "details": [],
+    "state": "available",
+    "purchaser": "id"
   }
 ]
