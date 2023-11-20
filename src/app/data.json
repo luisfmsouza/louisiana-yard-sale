@@ -73,7 +73,7 @@
     "originalPrice": 119,
     "price": 55,
     "details": ["Looks like new"],
-    "state": "reserved",
+    "state": "notavailable",
     "purchaser": "id"
   },
   {
@@ -103,7 +103,7 @@
     "originalPrice": 85.9,
     "price": 40,
     "details": ["33D x 80.2W x 60.8H"],
-    "state": "available",
+    "state": "notavailable",
     "purchaser": "id"
   },
   {
