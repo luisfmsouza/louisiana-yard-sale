@@ -77,7 +77,7 @@
 .productDetails {
   padding: 10px;
   position: relative;
-  color: #373737;
+  color: var(--title-product);
 }
 
 .productDetails ul {

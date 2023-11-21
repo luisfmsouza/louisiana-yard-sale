@@ -46,6 +46,7 @@
   --background-notavailable: #84817a;
   --background-reserved: #34ace0;
   --background-sold: #b33939;
+  --title-product: #373737
 }
 
 @media (prefers-color-scheme: dark) {
@@ -78,6 +79,15 @@
     --callout-border-rgb: 108, 108, 108;
     --card-rgb: 100, 100, 100;
     --card-border-rgb: 200, 200, 200;
+
+    --background-pay: #706fd3;
+    --background-price: #474787;
+    --background-discount: #ff5252;
+    --background-available: #33d9b2;
+    --background-notavailable: #84817a;
+    --background-reserved: #34ace0;
+    --background-sold: #b33939;
+    --title-product: #ffffff80
   }
 }
 
