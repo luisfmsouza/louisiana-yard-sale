@@ -18,18 +18,18 @@
     "details": [
       "Pick up in December"
     ],
-    "state": "sold",
+    "state": "available",
     "purchaser": "1"
   },
   {
-    "name": "Office Desk",
-    "url": "img/office_desk_2.jpeg",
-    "imageUrl": "/img/office_desk_2.jpeg",
-    "originalPrice": 300,
-    "price": 150,
+    "name": "Home Office Chair Black",
+    "url": "https://www.bureaustoel24.nl/breton-b-thuisgebruik-bureaustoel.html",
+    "imageUrl": "/img/office_chair.jpg",
+    "originalPrice": 205,
+    "price": 100,
     "details": [],
     "state": "available",
-    "purchaser": "id"
+    "purchaser": "1"
   },
   {
     "name": "RoboVac G10 Hybrid - Eufy",
@@ -44,16 +44,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Home Office Chair Black",
-    "url": "https://www.bureaustoel24.nl/breton-b-thuisgebruik-bureaustoel.html",
-    "imageUrl": "/img/office_chair.jpg",
-    "originalPrice": 205,
-    "price": 100,
-    "details": [],
-    "state": "sold",
-    "purchaser": "1"
-  },
-  {
     "name": "Ikea FÖRHÖJA - Kitchen trolley",
     "url": "https://www.ikea.com/nl/en/p/foerhoeja-kitchen-trolley-birch-80035920/",
     "imageUrl": "/img/trolley.jpeg",
@@ -63,7 +53,7 @@
       "Pick up in December",
       "Coffee equipament not included"
     ],
-    "state": "available",
+    "state": "notavailable",
     "purchaser": "id"
   },
   {
@@ -73,7 +63,7 @@
     "originalPrice": 119,
     "price": 55,
     "details": ["Looks like new"],
-    "state": "reserved",
+    "state": "notavailable",
     "purchaser": "id"
   },
   {
@@ -103,7 +93,7 @@
     "originalPrice": 85.9,
     "price": 40,
     "details": ["33D x 80.2W x 60.8H"],
-    "state": "reserved",
+    "state": "notavailable",
     "purchaser": "id"
   },
   {
@@ -113,7 +103,7 @@
     "originalPrice": 75,
     "price": 35,
     "details": ["100 x 30 x 72 cm"],
-    "state": "reserved",
+    "state": "notavailable",
     "purchaser": "id"
   },
   {
@@ -153,7 +143,7 @@
     "originalPrice": 49.95,
     "price": 15,
     "details": [],
-    "state": "available",
+    "state": "notavailable",
     "purchaser": "id"
   },
   {
