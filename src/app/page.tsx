@@ -4,99 +4,6 @@ import Image from "next/image";
 import styles from "./page.module.css";
 import products from "./data.json";
 
-// export default function Home() {
-//   return (
-//     <main className={styles.main}>
-//       <div className={styles.description}>
-//         <p>
-//           Get started by editing&nbsp;
-//           <code className={styles.code}>src/app/page.tsx</code>
-//         </p>
-//         <div>
-//           <a
-//             href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-//             target="_blank"
-//             rel="noopener noreferrer"
-//           >
-//             By{' '}
-//             <Image
-//               src="/vercel.svg"
-//               alt="Vercel Logo"
-//               className={styles.vercelLogo}
-//               width={100}
-//               height={24}
-//               priority
-//             />
-//           </a>
-//         </div>
-//       </div>
-
-//       <div className={styles.center}>
-//         <Image
-//           className={styles.logo}
-//           src="/next.svg"
-//           alt="Next.js Logo"
-//           width={180}
-//           height={37}
-//           priority
-//         />
-//       </div>
-
-//       <div className={styles.grid}>
-//         <a
-//           href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-//           className={styles.card}
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           <h2>
-//             Docs <span>-&gt;</span>
-//           </h2>
-//           <p>Find in-depth information about Next.js features and API.</p>
-//         </a>
-
-//         <a
-//           href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-//           className={styles.card}
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           <h2>
-//             Learn <span>-&gt;</span>
-//           </h2>
-//           <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
-//         </a>
-
-//         <a
-//           href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-//           className={styles.card}
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           <h2>
-//             Templates <span>-&gt;</span>
-//           </h2>
-//           <p>Explore the Next.js 13 playground.</p>
-//         </a>
-
-//         <a
-//           href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-//           className={styles.card}
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           <h2>
-//             Deploy <span>-&gt;</span>
-//           </h2>
-//           <p>
-//             Instantly deploy your Next.js site to a shareable URL with Vercel.
-//           </p>
-//         </a>
-//       </div>
-//     </main>
-//   )
-// }
-
 enum ProduceState {
   available = "available",
   reserved = "reserved",
@@ -118,6 +25,27 @@ interface Product {
 interface ProductListProps {
   products: Product[];
 }
+
+const STATE_LABEL: Record<ProduceState, string> = {
+  [ProduceState.available]: "AVAILABLE",
+  [ProduceState.reserved]: "RESERVED",
+  [ProduceState.sold]: "SOLD",
+  [ProduceState.notavailable]: "NOT AVAILABLE",
+};
+
+const STATE_BADGE_STYLE: Record<ProduceState, string> = {
+  [ProduceState.available]: styles.available,
+  [ProduceState.reserved]: styles.reserved,
+  [ProduceState.sold]: styles.sold,
+  [ProduceState.notavailable]: styles.notavailable,
+};
+
+const STATE_IMAGE_STYLE: Record<ProduceState, string> = {
+  [ProduceState.available]: styles.productImg,
+  [ProduceState.reserved]: styles.productImgFilterReserved,
+  [ProduceState.sold]: styles.productImgFilterSold,
+  [ProduceState.notavailable]: styles.productImgFilterNotAvailable,
+};
 
 const Header = () => (
   <>
@@ -166,75 +94,27 @@ const ProductCard = ({ product }: { product: Product }) => {
   const goWhatsapp = () => {
     const phoneNumber = "+31626381235";
     const message = `Hey, I'm interested in: ${p.name}!`;
-    const url = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${message}`;
+    const url = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`;
 
-    return window.open(url, "_blank");
+    window.open(url, "_blank", "noopener,noreferrer");
   };
 
   return (
     <div className={styles.product}>
-      <a href={p.url} target="_blank">
-        {p.state == "sold" ? (
-          <span className={styles.productSpan}>
-            <div className={styles.sold}>SOLD</div>
-
-            <Image
-              className={styles.productImgFilterSold}
-              src={p.imageUrl}
-              alt={p.name}
-              loading="lazy"
-              width={350}
-              height={350}
-            />
-          </span>
-        ) : (
-          ""
-        )}
-        {p.state == "reserved" ? (
-          <span className={styles.productSpan}>
-            <div className={styles.reserved}>RESERVED</div>
-            <Image
-              className={styles.productImgFilterReserved}
-              src={p.imageUrl}
-              alt={p.name}
-              loading="lazy"
-              width={350}
-              height={350}
-            />
-          </span>
-        ) : (
-          ""
-        )}
-        {p.state == "notavailable" ? (
-          <span className={styles.productSpan}>
-            <div className={styles.notavailable}>NOT AVAILABLE</div>
-            <Image
-              className={styles.productImgFilterNotAvailable}
-              src={p.imageUrl}
-              alt={p.name}
-              loading="lazy"
-              width={350}
-              height={350}
-            />
-          </span>
-        ) : (
-          ""
-        )}
-        {p.state == "available" ? (
-          <span className={styles.productSpan}>
-            <div className={styles.available}>AVAILABLE</div>
-            <Image
-              className={styles.productImg}
-              src={p.imageUrl}
-              alt={p.name}
-              loading="lazy"
-              width={350}
-              height={350}
-            />
-          </span>
-        ) : (
-          ""
-        )}
+      <a href={p.url} target="_blank" rel="noopener noreferrer">
+        <span className={styles.productSpan}>
+          <div className={STATE_BADGE_STYLE[p.state]}>
+            {STATE_LABEL[p.state]}
+          </div>
+          <Image
+            className={STATE_IMAGE_STYLE[p.state]}
+            src={p.imageUrl}
+            alt={p.name}
+            loading="lazy"
+            width={350}
+            height={350}
+          />
+        </span>
       </a>
 
       <div className={styles.productDetails}>
@@ -247,7 +127,18 @@ const ProductCard = ({ product }: { product: Product }) => {
         </ul>
       </div>
 
-      <div onClick={goWhatsapp} className={styles.boxPrice}>
+      <div
+        role="button"
+        tabIndex={0}
+        onClick={goWhatsapp}
+        onKeyDown={(event) => {
+          if (event.key === "Enter" || event.key === " ") {
+            event.preventDefault();
+            goWhatsapp();
+          }
+        }}
+        className={styles.boxPrice}
+      >
         <span className={styles.price}>{formatPrice(p.price)}</span>
         <div className={styles.box}>
           <Image

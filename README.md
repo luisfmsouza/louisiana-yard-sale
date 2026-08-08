@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Louisiana Yard Sale
 
-## Getting Started
+A single-page listing site for Luis & Ana's garage sale ("Louisiana" = **Lu**is + **Ana**). Each item is a card with a photo, price, discount badge, and a **BUY** button that opens a pre-filled WhatsApp chat.
 
-First, run the development server:
+Built with [Next.js](https://nextjs.org/) (App Router) and TypeScript.
+
+## Requirements
+
+- Node.js version pinned in [`.nvmrc`](./.nvmrc) (`nvm use`)
+
+## Getting started
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to see the site. It hot-reloads as you edit.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Managing listings
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Products are plain data in [`src/app/data.json`](./src/app/data.json) — no CMS or database. Each entry looks like:
 
-## Learn More
+```json
+{
+  "name": "Ikea BEKANT - Standing desk",
+  "url": "https://www.ikea.com/...",
+  "imageUrl": "/img/office_desk.jpeg",
+  "originalPrice": 469,
+  "price": 200,
+  "details": ["Pick up in December"],
+  "state": "available",
+  "purchaser": "1"
+}
+```
 
-To learn more about Next.js, take a look at the following resources:
+- `imageUrl` points at a file under [`public/img`](./public/img).
+- `url` is the original product listing, opened when the photo is clicked.
+- `state` is one of `available`, `reserved`, `sold`, `notavailable` and controls the badge/overlay shown on the card.
+- The discount badge is derived automatically from `price` vs `originalPrice`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To add an item: drop its photo into `public/img`, then append an entry to `data.json`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Scripts
 
-## Deploy on Vercel
+| Script                 | Description                              |
+| ---------------------- | ----------------------------------------- |
+| `npm run dev`          | Start the dev server (Turbopack)          |
+| `npm run build`        | Production build                          |
+| `npm run start`        | Serve the production build                |
+| `npm run lint`         | Lint with ESLint                          |
+| `npm run typecheck`    | Type-check with `tsc --noEmit`            |
+| `npm run format`       | Format the codebase with Prettier         |
+| `npm run format:check` | Check formatting without writing changes  |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+CI (see [`.github/workflows/ci.yml`](./.github/workflows/ci.yml)) runs all of the above on every push and pull request.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Tech stack
+
+- [Next.js 16](https://nextjs.org/docs) (App Router, Turbopack)
+- [React 19](https://react.dev/)
+- TypeScript
+- ESLint (flat config) + Prettier
+
+## Deployment
+
+The easiest way to deploy is [Vercel](https://vercel.com/new), the creators of Next.js. See the [Next.js deployment docs](https://nextjs.org/docs/app/building-your-application/deploying) for other options.

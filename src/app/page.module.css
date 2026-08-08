@@ -159,7 +159,7 @@
 
 .sold {
   /* top: 200px; */
-  background-color: var(--background-reserved);
+  background-color: var(--background-sold);
   /* height: 50px; */
   width: 100%;
   color: #fff;
