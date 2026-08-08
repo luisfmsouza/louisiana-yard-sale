@@ -97,6 +97,16 @@
     "purchaser": "id"
   },
   {
+    "name": "Echo Show 5 (3rd Gen) - Alexa",
+    "url": "https://www.amazon.es/echo-show-5-3a-generacion/dp/B09B2TH45G",
+    "imageUrl": "/img/echo_show_5.jpeg",
+    "originalPrice": 79.99,
+    "price": 40,
+    "details": ["White", "Original box included"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Shoe cabinet",
     "url": "https://www.bol.com/nl/nl/p/schoenenrek-schoenen-organisator-met-3-strak-gemaasde-gaasplanken-industriele-stijl-vintage-bruin-zwart/9300000150732690/?Referrer=NLGOOFS",
     "imageUrl": "/img/shoe_cabinet.jpeg",
@@ -107,6 +117,20 @@
     "purchaser": "id"
   },
   {
+    "name": "Instant Pot Duo - Pressure Cooker",
+    "url": "https://www.amazon.es/Instant-Programable-Programas-Yogurtera-Inoxidable/dp/B08Z4HCGDH",
+    "imageUrl": "/img/instant_pot_duo.jpeg",
+    "originalPrice": 69.99,
+    "price": 35,
+    "details": [
+      "7-in-1 multicooker",
+      "Pressure cooker, slow cooker, rice cooker, steamer, yogurt maker",
+      "Original box included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Ladder",
     "url": "https://www.blokker.nl/blokker-huishoudtrap---5-treden/3419969.html",
     "imageUrl": "/img/ladder.jpeg",
@@ -114,6 +138,20 @@
     "price": 30,
     "details": ["Pick up in December"],
     "state": "notavailable",
+    "purchaser": "id"
+  },
+  {
+    "name": "Taurus Magnum 1500 - Blender",
+    "url": "https://www.elcorteingles.es/electrodomesticos/A45221161-batidora-de-vaso-taurus-magnum-1500-con-15-litros-de-capacidad/",
+    "imageUrl": "/img/blender_taurus_magnum.jpeg",
+    "originalPrice": 42.9,
+    "price": 22,
+    "details": [
+      "1500 W - 1,5 L glass jar",
+      "2 speeds + turbo",
+      "Original box included"
+    ],
+    "state": "available",
     "purchaser": "id"
   },
   {
@@ -144,6 +182,96 @@
     "price": 15,
     "details": [],
     "state": "notavailable",
+    "purchaser": "id"
+  },
+  {
+    "name": "Calais Wine Glasses 65cl - Set of 4",
+    "url": "https://www.elcorteingles.es/hogar/A17145247-2401980129701-pr-juego-de-4-copas-de-vino-calais-el-corte-ingles-65-cl/",
+    "imageUrl": "/img/wine_glasses_65cl.jpeg",
+    "originalPrice": 21.95,
+    "price": 11,
+    "details": [
+      "El Corte Inglés - Calais",
+      "4 glasses - 65 cl",
+      "Crystalline glass",
+      "Original box included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Calais Wine Glasses 52cl - Set of 4",
+    "url": "https://www.elcorteingles.es/hogar/A17145247-2401980129718-pr-juego-de-4-copas-de-vino-calais-el-corte-ingles-52-cl/",
+    "imageUrl": "/img/wine_glasses_52cl.jpeg",
+    "originalPrice": 21.95,
+    "price": 11,
+    "details": [
+      "El Corte Inglés - Calais",
+      "4 glasses - 52 cl",
+      "Crystalline glass",
+      "Original box included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "MasterClass Roasting Tin",
+    "url": "https://www.amazon.es/masterclass-Bandeja-Horno-para-Antiadherente/dp/B00PO9LALA",
+    "imageUrl": "/img/roasting_tin_masterclass.jpeg",
+    "originalPrice": 21.95,
+    "price": 11,
+    "details": [
+      "Non-stick carbon steel",
+      "Bought at El Corte Inglés"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "MasterClass Bundt Cake Tin",
+    "url": "https://www.elcorteingles.es/hogar/A51219974-molde-decorativo-antiadherente-para-tartas-masterclass/",
+    "imageUrl": "/img/bundt_tin_masterclass.jpeg",
+    "originalPrice": 19.95,
+    "price": 10,
+    "details": [
+      "Non-stick fluted ring mould",
+      "Bought at El Corte Inglés"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Catstages Melon Madness - Cat Puzzle",
+    "url": "https://www.amazon.es/Petstages-Nina-Madness-Rompecabezas-Gatos-Juguete-Interactivo-dispensador/dp/B0872JDX24",
+    "imageUrl": "/img/cat_puzzle_melon_madness.jpeg",
+    "originalPrice": 19.6,
+    "price": 10,
+    "details": [
+      "Nina Ottosson - interactive treat puzzle",
+      "12 hidden treat cups",
+      "Original box included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Jenga Classic - Hasbro",
+    "url": "https://www.toysrus.es/Jenga-(A2120EU4)/p/K1018483",
+    "imageUrl": "/img/jenga.jpeg",
+    "originalPrice": 18.99,
+    "price": 9,
+    "details": ["Genuine hardwood blocks", "Original box included"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "LED Bulbs E27 - Set of 3",
+    "url": "https://www.lamparas.es/bombillas/9734-pack-3-bombillas-led-e27-estandar-10-w-luz-neutra-a2bc-8436564570635.html",
+    "imageUrl": "/img/led_bulbs.jpeg",
+    "originalPrice": 9.99,
+    "price": 5,
+    "details": ["3 bulbs", "E27 socket - 10W"],
+    "state": "available",
     "purchaser": "id"
   },
   {
