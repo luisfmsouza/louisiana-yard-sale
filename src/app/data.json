@@ -2,10 +2,10 @@
   
   {
     "name": "RoboVac G10 Hybrid - Eufy",
-    "url": "https://nl.eufy.com/products/t2150311",
+    "url": "https://www.amazon.es/Fregasuelos-Navegaci%C3%B3n-Inteligente-silencioso-autom%C3%A1ticamente/dp/B07SM87DCV?th=1",
     "imageUrl": "/img/vaccum_robot.jpeg",
-    "originalPrice": 199.99,
-    "price": 100,
+    "originalPrice": 112,
+    "price": 30,
     "details": [
       "Pick up in December"
     ],
@@ -14,10 +14,10 @@
   },
   {
     "name": "Massage Gun - Tunturi",
-    "url": "https://www.coolblue.nl/product/872227/tunturi-massage-gun.html",
+    "url": "https://www.decathlon.es/es/p/mp/pistola-de-masaje-tunturi-aparato-de-masaje-incluye-estuche/f18895a8-a74d-4f32-8a20-1cee087bafc2/c1c9?LGWCODE=1",
     "imageUrl": "/img/massage_gun.jpeg",
-    "originalPrice": 107,
-    "price": 55,
+    "originalPrice": 89.99,
+    "price": 30,
     "details": ["Immediate pick up possible"],
     "state": "available",
     "purchaser": "id"
@@ -27,7 +27,7 @@
     "url": "https://www.amazon.es/echo-show-5-3a-generacion/dp/B09B2TH45G",
     "imageUrl": "/img/echo_show_5.jpeg",
     "originalPrice": 79.99,
-    "price": 40,
+    "price": 35,
     "details": ["White", "Original box included"],
     "state": "available",
     "purchaser": "id"
