@@ -1,36 +1,5 @@
 [
-  {
-    "name": "Raki",
-    "url": "img/cat.jpeg",
-    "imageUrl": "/img/cat.jpeg",
-    "originalPrice": 40000000,
-    "price": 20000000,
-    "details": [],
-    "state": "notavailable",
-    "purchaser": "id"
-  },
-  {
-    "name": "Ikea BEKANT - Standing desk",
-    "url": "https://www.ikea.com/nl/en/p/bekant-desk-sit-stand-black-stained-ash-veneer-black-s99281812/#content",
-    "imageUrl": "/img/office_desk.jpeg",
-    "originalPrice": 469,
-    "price": 200,
-    "details": [
-      "Pick up in December"
-    ],
-    "state": "notavailable",
-    "purchaser": "1"
-  },
-  {
-    "name": "Home Office Chair Black",
-    "url": "https://www.bureaustoel24.nl/breton-b-thuisgebruik-bureaustoel.html",
-    "imageUrl": "/img/office_chair.jpg",
-    "originalPrice": 205,
-    "price": 100,
-    "details": [],
-    "state": "notavailable",
-    "purchaser": "1"
-  },
+  
   {
     "name": "RoboVac G10 Hybrid - Eufy",
     "url": "https://nl.eufy.com/products/t2150311",
@@ -44,29 +13,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Ikea FÖRHÖJA - Kitchen trolley",
-    "url": "https://www.ikea.com/nl/en/p/foerhoeja-kitchen-trolley-birch-80035920/",
-    "imageUrl": "/img/trolley.jpeg",
-    "originalPrice": 129,
-    "price": 65,
-    "details": [
-      "Pick up in December",
-      "Coffee equipament not included"
-    ],
-    "state": "notavailable",
-    "purchaser": "id"
-  },
-  {
-    "name": "BAMBOO Mirror",
-    "url": "https://nl.casashops.com/nl/producten/bamboo-passpiegel-632044/632044/",
-    "imageUrl": "/img/mirror.jpeg",
-    "originalPrice": 119,
-    "price": 55,
-    "details": ["Looks like new"],
-    "state": "notavailable",
-    "purchaser": "id"
-  },
-  {
     "name": "Massage Gun - Tunturi",
     "url": "https://www.coolblue.nl/product/872227/tunturi-massage-gun.html",
     "imageUrl": "/img/massage_gun.jpeg",
@@ -77,26 +23,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Induction Milk Frother",
-    "url": "https://www.bol.com/nl/nl/p/severin-sm-3585-inductiemelkopschuimer-spuma-500/9200000124030472/?s2a=",
-    "imageUrl": "/img/milk_froath.jpeg",
-    "originalPrice": 79.99,
-    "price": 40,
-    "details": ["Available immediately"],
-    "state": "notavailable",
-    "purchaser": "id"
-  },
-  {
-    "name": "Vicco Washbasin cabinet",
-    "url": "https://www.amazon.nl/gp/product/B08TMKB9JD/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1",
-    "imageUrl": "/img/washbasin_cabinet.jpg",
-    "originalPrice": 85.9,
-    "price": 40,
-    "details": ["33D x 80.2W x 60.8H"],
-    "state": "notavailable",
-    "purchaser": "id"
-  },
-  {
     "name": "Echo Show 5 (3rd Gen) - Alexa",
     "url": "https://www.amazon.es/echo-show-5-3a-generacion/dp/B09B2TH45G",
     "imageUrl": "/img/echo_show_5.jpeg",
@@ -104,16 +30,6 @@
     "price": 40,
     "details": ["White", "Original box included"],
     "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Shoe cabinet",
-    "url": "https://www.bol.com/nl/nl/p/schoenenrek-schoenen-organisator-met-3-strak-gemaasde-gaasplanken-industriele-stijl-vintage-bruin-zwart/9300000150732690/?Referrer=NLGOOFS",
-    "imageUrl": "/img/shoe_cabinet.jpeg",
-    "originalPrice": 75,
-    "price": 35,
-    "details": ["100 x 30 x 72 cm"],
-    "state": "notavailable",
     "purchaser": "id"
   },
   {
@@ -131,16 +47,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Ladder",
-    "url": "https://www.blokker.nl/blokker-huishoudtrap---5-treden/3419969.html",
-    "imageUrl": "/img/ladder.jpeg",
-    "originalPrice": 69.99,
-    "price": 30,
-    "details": ["Pick up in December"],
-    "state": "notavailable",
-    "purchaser": "id"
-  },
-  {
     "name": "Taurus Magnum 1500 - Blender",
     "url": "https://www.elcorteingles.es/electrodomesticos/A45221161-batidora-de-vaso-taurus-magnum-1500-con-15-litros-de-capacidad/",
     "imageUrl": "/img/blender_taurus_magnum.jpeg",
@@ -152,36 +58,6 @@
       "Original box included"
     ],
     "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Nobo Whiteboard",
-    "url": "https://www.amazon.nl/gp/product/B01LWRKZZ1/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1",
-    "imageUrl": "/img/whiteboard.jpeg",
-    "originalPrice": 41,
-    "price": 20,
-    "details": ["90 x 60 cm", "non-magnetic", "4 pens", "1 eraser", "Available immediately"],
-    "state": "notavailable",
-    "purchaser": "id"
-  },
-  {
-    "name": "Slow Cooker",
-    "url": "https://shop.action.com/nl-nl/p/8720195388968/magnani-slowcooker-3-5-liter",
-    "imageUrl": "/img/slow_cooker.jpg",
-    "originalPrice": 45,
-    "price": 20,
-    "details": ["3,5 liters", "Available immediately"],
-    "state": "notavailable",
-    "purchaser": "id"
-  },
-  {
-    "name": "Wall Coat Rack Bram",
-    "url": "https://www.volero.nl/kapstok-bram-zwart.html",
-    "imageUrl": "/img/coat_rack.jpeg",
-    "originalPrice": 49.95,
-    "price": 15,
-    "details": [],
-    "state": "notavailable",
     "purchaser": "id"
   },
   {
@@ -272,26 +148,6 @@
     "price": 5,
     "details": ["3 bulbs", "E27 socket - 10W"],
     "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Forclaz 40L backpack",
-    "url": "https://decathlon.ae/products/travel-backpack-40l?variant=37878822207678",
-    "imageUrl": "/img/backpack_40l_red.png",
-    "originalPrice": 79,
-    "price": 40,
-    "details": [],
-    "state": "notavailable",
-    "purchaser": "id"
-  },
-  {
-    "name": "Forclaz 40L backpack",
-    "url": "https://decathlon.ae/products/travel-backpack-40l?variant=37878841082046",
-    "imageUrl": "/img/backpack_40l.png",
-    "originalPrice": 79,
-    "price": 40,
-    "details": [],
-    "state": "notavailable",
     "purchaser": "id"
   }
 ]
