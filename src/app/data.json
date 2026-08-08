@@ -117,6 +117,20 @@
     "purchaser": "id"
   },
   {
+    "name": "Instant Pot Duo - Pressure Cooker",
+    "url": "https://www.amazon.es/Instant-Programable-Programas-Yogurtera-Inoxidable/dp/B08Z4HCGDH",
+    "imageUrl": "/img/instant_pot_duo.jpeg",
+    "originalPrice": 69.99,
+    "price": 35,
+    "details": [
+      "7-in-1 multicooker",
+      "Pressure cooker, slow cooker, rice cooker, steamer, yogurt maker",
+      "Original box included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Ladder",
     "url": "https://www.blokker.nl/blokker-huishoudtrap---5-treden/3419969.html",
     "imageUrl": "/img/ladder.jpeg",
@@ -196,6 +210,32 @@
       "4 glasses - 52 cl",
       "Crystalline glass",
       "Original box included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "MasterClass Roasting Tin",
+    "url": "https://www.amazon.es/masterclass-Bandeja-Horno-para-Antiadherente/dp/B00PO9LALA",
+    "imageUrl": "/img/roasting_tin_masterclass.jpeg",
+    "originalPrice": 21.95,
+    "price": 11,
+    "details": [
+      "Non-stick carbon steel",
+      "Bought at El Corte Inglés"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "MasterClass Bundt Cake Tin",
+    "url": "https://www.elcorteingles.es/hogar/A51219974-molde-decorativo-antiadherente-para-tartas-masterclass/",
+    "imageUrl": "/img/bundt_tin_masterclass.jpeg",
+    "originalPrice": 19.95,
+    "price": 10,
+    "details": [
+      "Non-stick fluted ring mould",
+      "Bought at El Corte Inglés"
     ],
     "state": "available",
     "purchaser": "id"
