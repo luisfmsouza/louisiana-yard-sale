@@ -1,5 +1,3 @@
-"use client";
-
 import Image from "next/image";
 import styles from "./page.module.css";
 import products from "./data.json";
@@ -90,13 +88,9 @@ const ProductCard = ({ product }: { product: Product }) => {
     });
   const discount = Math.round(100 - (p.price / p.originalPrice) * 100);
 
-  const goWhatsapp = () => {
-    const phoneNumber = "+31626381235";
-    const message = `Hey, I'm interested in: ${p.name}!`;
-    const url = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`;
-
-    window.open(url, "_blank", "noopener,noreferrer");
-  };
+  const phoneNumber = "+5519992166464";
+  const message = `Hey, I'm interested in: ${p.name}!`;
+  const whatsappUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`;
 
   return (
     <div className={styles.product}>
@@ -126,30 +120,26 @@ const ProductCard = ({ product }: { product: Product }) => {
         </ul>
       </div>
 
-      <div
-        role="button"
-        tabIndex={0}
-        onClick={goWhatsapp}
-        onKeyDown={(event) => {
-          if (event.key === "Enter" || event.key === " ") {
-            event.preventDefault();
-            goWhatsapp();
-          }
-        }}
+      <a
+        href={whatsappUrl}
+        target="_blank"
+        rel="noopener noreferrer"
         className={styles.boxPrice}
+        aria-label={`Buy ${p.name} via WhatsApp for ${formatPrice(p.price)}`}
       >
         <span className={styles.price}>{formatPrice(p.price)}</span>
         <div className={styles.box}>
           <Image
             className={styles.icon}
             src="/icon/whatsapp.png"
-            alt="WhatsApp"
+            alt=""
             width={26}
             height={26}
+            aria-hidden
           />
-          <button className={styles.payment}>BUY</button>
+          <span className={styles.payment}>BUY</span>
         </div>
-      </div>
+      </a>
     </div>
   );
 };
