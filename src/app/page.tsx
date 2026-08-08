@@ -49,11 +49,10 @@ const STATE_IMAGE_STYLE: Record<ProduceState, string> = {
 
 const Header = () => (
   <>
-    <header className={styles.header}>Luis & Ana Garage Sale! 🇳🇱 ✈️ 🗺️</header>
+    <header className={styles.header}>Luis & Ana Garage Sale! 🇪🇸 🗺️</header>
 
     <h3 className={styles.h3}>
-      Raki is selling some of his humans stuff, if you are interested in
-      something, please contact via WhatsApp.
+      Luis & Ana are selling some stuff, if you are interested, please contact via WhatsApp.
     </h3>
     <h4 className={styles.h4}>
       Click the product image to see the original items.
