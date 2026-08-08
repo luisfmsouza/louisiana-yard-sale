@@ -97,6 +97,16 @@
     "purchaser": "id"
   },
   {
+    "name": "Echo Show 5 (3rd Gen) - Alexa",
+    "url": "https://www.amazon.es/echo-show-5-3a-generacion/dp/B09B2TH45G",
+    "imageUrl": "/img/echo_show_5.jpeg",
+    "originalPrice": 79.99,
+    "price": 40,
+    "details": ["White", "Original box included"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Shoe cabinet",
     "url": "https://www.bol.com/nl/nl/p/schoenenrek-schoenen-organisator-met-3-strak-gemaasde-gaasplanken-industriele-stijl-vintage-bruin-zwart/9300000150732690/?Referrer=NLGOOFS",
     "imageUrl": "/img/shoe_cabinet.jpeg",
@@ -144,6 +154,40 @@
     "price": 15,
     "details": [],
     "state": "notavailable",
+    "purchaser": "id"
+  },
+  {
+    "name": "Catstages Melon Madness - Cat Puzzle",
+    "url": "https://www.amazon.es/Petstages-Nina-Madness-Rompecabezas-Gatos-Juguete-Interactivo-dispensador/dp/B0872JDX24",
+    "imageUrl": "/img/cat_puzzle_melon_madness.jpeg",
+    "originalPrice": 19.6,
+    "price": 10,
+    "details": [
+      "Nina Ottosson - interactive treat puzzle",
+      "12 hidden treat cups",
+      "Original box included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Jenga Classic - Hasbro",
+    "url": "https://www.toysrus.es/Jenga-(A2120EU4)/p/K1018483",
+    "imageUrl": "/img/jenga.jpeg",
+    "originalPrice": 18.99,
+    "price": 9,
+    "details": ["Genuine hardwood blocks", "Original box included"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "LED Bulbs E27 - Set of 3",
+    "url": "https://www.lamparas.es/bombillas/9734-pack-3-bombillas-led-e27-estandar-10-w-luz-neutra-a2bc-8436564570635.html",
+    "imageUrl": "/img/led_bulbs.jpeg",
+    "originalPrice": 9.99,
+    "price": 5,
+    "details": ["3 bulbs", "E27 socket - 10W"],
+    "state": "available",
     "purchaser": "id"
   },
   {
