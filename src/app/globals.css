@@ -1,7 +1,8 @@
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
-  --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
+  --font-mono:
+    ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
     "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro",
     "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
 
@@ -46,7 +47,7 @@
   --background-notavailable: #84817a;
   --background-reserved: #34ace0;
   --background-sold: #b33939;
-  --title-product: #373737
+  --title-product: #373737;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -87,7 +88,7 @@
     --background-notavailable: #84817a;
     --background-reserved: #34ace0;
     --background-sold: #b33939;
-    --title-product: #ffffff80
+    --title-product: #ffffff80;
   }
 }
 
