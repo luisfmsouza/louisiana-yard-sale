@@ -50,7 +50,8 @@ const Header = () => (
     <header className={styles.header}>Luis & Ana Garage Sale! 🇪🇸 ✈️ 🗺️</header>
 
     <h3 className={styles.h3}>
-      Luis & Ana are moving. They are selling some stuff that can&apos;t fit in their new suitcases, if you are interested, please contact via WhatsApp.
+      Luis & Ana are moving. They are selling some stuff that can&apos;t fit in
+      their new suitcases, if you are interested, please contact via WhatsApp.
     </h3>
     <h4 className={styles.h4}>
       Click the product image to see the original items.
