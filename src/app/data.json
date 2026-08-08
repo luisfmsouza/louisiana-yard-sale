@@ -15,7 +15,6 @@
   {
     "name": "Ikea TROTTEN - Standing desk",
     "url": "https://www.ikea.com/es/es/p/trotten-escritorio-elevable-blanco-s99429578/",
-    "imageUrl": "/img/desk_trotten_standing.jpeg",
     "originalPrice": 189,
     "price": 95,
     "details": ["120 x 70 cm", "Sit/stand - manual crank", "White"],
@@ -59,7 +58,6 @@
   {
     "name": "Ikea TROTTEN - Desk",
     "url": "https://www.ikea.com/es/es/p/trotten-escritorio-blanco-s29424942/",
-    "imageUrl": "/img/desk_trotten.jpeg",
     "originalPrice": 69,
     "price": 35,
     "details": ["120 x 70 cm", "White"],

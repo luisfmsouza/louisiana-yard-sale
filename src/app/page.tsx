@@ -14,7 +14,7 @@ interface Product {
   price: number;
   originalPrice: number;
   details: string[];
-  imageUrl: string;
+  imageUrl?: string;
   url: string;
   state: ProduceState;
   purchaser: string;
@@ -99,14 +99,16 @@ const ProductCard = ({ product }: { product: Product }) => {
           <div className={STATE_BADGE_STYLE[p.state]}>
             {STATE_LABEL[p.state]}
           </div>
-          <Image
-            className={STATE_IMAGE_STYLE[p.state]}
-            src={p.imageUrl}
-            alt={p.name}
-            loading="lazy"
-            width={350}
-            height={350}
-          />
+          {p.imageUrl && (
+            <Image
+              className={STATE_IMAGE_STYLE[p.state]}
+              src={p.imageUrl}
+              alt={p.name}
+              loading="lazy"
+              width={350}
+              height={350}
+            />
+          )}
         </span>
       </a>
 
