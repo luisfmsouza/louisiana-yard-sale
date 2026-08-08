@@ -18,7 +18,7 @@
     "details": [
       "Pick up in December"
     ],
-    "state": "available",
+    "state": "notavailable",
     "purchaser": "1"
   },
   {
@@ -28,7 +28,7 @@
     "originalPrice": 205,
     "price": 100,
     "details": [],
-    "state": "available",
+    "state": "notavailable",
     "purchaser": "1"
   },
   {
@@ -83,7 +83,7 @@
     "originalPrice": 79.99,
     "price": 40,
     "details": ["Available immediately"],
-    "state": "available",
+    "state": "notavailable",
     "purchaser": "id"
   },
   {
@@ -113,7 +113,7 @@
     "originalPrice": 69.99,
     "price": 30,
     "details": ["Pick up in December"],
-    "state": "available",
+    "state": "notavailable",
     "purchaser": "id"
   },
   {
@@ -123,7 +123,7 @@
     "originalPrice": 41,
     "price": 20,
     "details": ["90 x 60 cm", "non-magnetic", "4 pens", "1 eraser", "Available immediately"],
-    "state": "available",
+    "state": "notavailable",
     "purchaser": "id"
   },
   {
@@ -133,7 +133,7 @@
     "originalPrice": 45,
     "price": 20,
     "details": ["3,5 liters", "Available immediately"],
-    "state": "available",
+    "state": "notavailable",
     "purchaser": "id"
   },
   {
@@ -153,7 +153,7 @@
     "originalPrice": 79,
     "price": 40,
     "details": [],
-    "state": "available",
+    "state": "notavailable",
     "purchaser": "id"
   },
   {
@@ -163,7 +163,7 @@
     "originalPrice": 79,
     "price": 40,
     "details": [],
-    "state": "sold",
+    "state": "notavailable",
     "purchaser": "id"
   }
 ]
