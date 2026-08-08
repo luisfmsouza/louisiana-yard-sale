@@ -127,6 +127,20 @@
     "purchaser": "id"
   },
   {
+    "name": "Taurus Magnum 1500 - Blender",
+    "url": "https://www.elcorteingles.es/electrodomesticos/A45221161-batidora-de-vaso-taurus-magnum-1500-con-15-litros-de-capacidad/",
+    "imageUrl": "/img/blender_taurus_magnum.jpeg",
+    "originalPrice": 42.9,
+    "price": 22,
+    "details": [
+      "1500 W - 1,5 L glass jar",
+      "2 speeds + turbo",
+      "Original box included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Nobo Whiteboard",
     "url": "https://www.amazon.nl/gp/product/B01LWRKZZ1/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1",
     "imageUrl": "/img/whiteboard.jpeg",
@@ -154,6 +168,36 @@
     "price": 15,
     "details": [],
     "state": "notavailable",
+    "purchaser": "id"
+  },
+  {
+    "name": "Calais Wine Glasses 65cl - Set of 4",
+    "url": "https://www.elcorteingles.es/hogar/A17145247-2401980129701-pr-juego-de-4-copas-de-vino-calais-el-corte-ingles-65-cl/",
+    "imageUrl": "/img/wine_glasses_65cl.jpeg",
+    "originalPrice": 21.95,
+    "price": 11,
+    "details": [
+      "El Corte Inglés - Calais",
+      "4 glasses - 65 cl",
+      "Crystalline glass",
+      "Original box included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Calais Wine Glasses 52cl - Set of 4",
+    "url": "https://www.elcorteingles.es/hogar/A17145247-2401980129718-pr-juego-de-4-copas-de-vino-calais-el-corte-ingles-52-cl/",
+    "imageUrl": "/img/wine_glasses_52cl.jpeg",
+    "originalPrice": 21.95,
+    "price": 11,
+    "details": [
+      "El Corte Inglés - Calais",
+      "4 glasses - 52 cl",
+      "Crystalline glass",
+      "Original box included"
+    ],
+    "state": "available",
     "purchaser": "id"
   },
   {
