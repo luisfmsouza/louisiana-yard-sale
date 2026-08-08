@@ -44,20 +44,20 @@ To add an item: drop its photo into `public/img`, then append an entry to `data.
 ## Scripts
 
 | Script                 | Description                              |
-| ---------------------- | ----------------------------------------- |
-| `npm run dev`          | Start the dev server (Turbopack)          |
-| `npm run build`        | Production build                          |
-| `npm run start`        | Serve the production build                |
-| `npm run lint`         | Lint with ESLint                          |
-| `npm run typecheck`    | Type-check with `tsc --noEmit`            |
-| `npm run format`       | Format the codebase with Prettier         |
-| `npm run format:check` | Check formatting without writing changes  |
+| ---------------------- | ---------------------------------------- |
+| `npm run dev`          | Start the dev server (Turbopack)         |
+| `npm run build`        | Production build                         |
+| `npm run start`        | Serve the production build               |
+| `npm run lint`         | Lint with ESLint                         |
+| `npm run typecheck`    | Type-check with `tsc --noEmit`           |
+| `npm run format`       | Format the codebase with Prettier        |
+| `npm run format:check` | Check formatting without writing changes |
 
 CI (see [`.github/workflows/ci.yml`](./.github/workflows/ci.yml)) runs all of the above on every push and pull request.
 
 ## Tech stack
 
-- [Next.js 16](https://nextjs.org/docs) (App Router, Turbopack)
+- [Next.js 15](https://nextjs.org/docs) (App Router, Turbopack)
 - [React 19](https://react.dev/)
 - TypeScript
 - ESLint (flat config) + Prettier
