@@ -1,5 +1,47 @@
 [
   {
+    "name": "Joseph Joseph Duo - Tiered Organiser with Drawer",
+    "url": "https://www.leroymerlin.es/productos/organizador-escalonado-con-cajon-duo-joseph-joseph-de-17x11cm-90379464.html",
+    "imageUrl": "/img/joseph_joseph_duo_tiered_organiser.jpeg",
+    "originalPrice": 19.79,
+    "price": 10,
+    "details": [
+      "Grey - 3 tiers + pull-out drawer",
+      "17 × 11 × 26 cm - non-slip shelves",
+      "Compact cupboard / pantry organiser"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Leeby - Round Anti-stress Cat Bed",
+    "url": "https://www.tiendanimal.es/leeby-cama-redonda-antiestres-de-pelo-gris-para-gatos/LBB41528_M.html",
+    "imageUrl": "/img/leeby_round_anti_stress_cat_bed.jpeg",
+    "originalPrice": 22.99,
+    "price": 11.5,
+    "details": [
+      "15 × 50 × 50 cm - soft gray faux fur",
+      "Donut shape - calming / anti-stress",
+      "Removable washable cover + reversible cushion"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Beliani TRAPANI - Kitchen Cart",
+    "url": "https://www.beliani.es/carrito-de-cocina-negro-madera-clara-trapani.html",
+    "imageUrl": "/img/beliani_trapani_kitchen_cart.jpeg",
+    "originalPrice": 169.99,
+    "price": 85,
+    "details": [
+      "Black MDF + light rubber-wood top",
+      "Drawer, cabinet & 2 open shelves - casters",
+      "75 × 44 × 87 cm"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Russell Hobbs Victory - Long Slot Toaster",
     "url": "https://es.russellhobbs.com/producto/tostadora-victory-ranura-larga-dos-rebanadas",
     "imageUrl": "/img/russell_hobbs_victory_long_slot_toaster.jpeg",
