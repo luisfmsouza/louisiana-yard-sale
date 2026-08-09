@@ -1,42 +1,48 @@
 [
   {
-    "name": "Kärcher WV 1 Plus - Window Vacuum",
-    "url": "https://www.amazon.es/dp/B0CQTG8F4H?th=1",
-    "imageUrl": "/img/karcher_wv_1_plus.jpeg",
-    "originalPrice": 46.2,
-    "price": 23,
+    "name": "Ikea TROTTEN - Standing desk",
+    "url": "https://www.ikea.com/es/es/p/trotten-escritorio-elevable-blanco-s99429578/",
+    "imageUrl": "/img/trotten_standing_desk.jpeg",
+    "originalPrice": 189,
+    "price": 94,
+    "details": ["120 x 70 cm", "Sit/stand - manual crank", "White"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea TROTTEN - Desk",
+    "url": "https://www.ikea.com/es/es/p/trotten-escritorio-blanco-s29424942/",
+    "imageUrl": "/img/trotten_desk.jpeg",
+    "originalPrice": 69,
+    "price": 34,
+    "details": ["120 x 70 cm", "White"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "SIHOO M57 - Ergonomic Office Chair",
+    "url": "https://www.amazon.es/SIHOO-Ergonomic-Backrest-Breathable-Adjustable/dp/B085GDG45B?th=1",
+    "imageUrl": "/img/sihoo_m57_ergonomic_office_chair.jpeg",
+    "originalPrice": 249.99,
+    "price": 124,
     "details": [
-      "Cordless - up to 20 min runtime",
-      "Spray bottle + microfibre cloth + 20 ml cleaner",
-      "100 ml dirty-water tank - 0.5 kg"
+      "Dark grey mesh - adjustable lumbar & headrest",
+      "3D armrests - tilt up to 135°",
+      "Chrome base - up to 150 kg"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Joseph Joseph Duo - Tiered Organiser with Drawer",
-    "url": "https://www.leroymerlin.es/productos/organizador-escalonado-con-cajon-duo-joseph-joseph-de-17x11cm-90379464.html",
-    "imageUrl": "/img/joseph_joseph_duo_tiered_organiser.jpeg",
-    "originalPrice": 19.79,
-    "price": 10,
+    "name": "Ticova M8 - Ergonomic Office Chair",
+    "url": "https://www.amazon.es/dp/B09GNPLXMZ",
+    "imageUrl": "/img/ticova_ergonomic_office_chair.jpeg",
+    "originalPrice": 139.99,
+    "price": 69,
     "details": [
-      "Grey - 3 tiers + pull-out drawer",
-      "17 × 11 × 26 cm - non-slip shelves",
-      "Compact cupboard / pantry organiser"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Leeby - Round Anti-stress Cat Bed",
-    "url": "https://www.tiendanimal.es/leeby-cama-redonda-antiestres-de-pelo-gris-para-gatos/LBB41528_M.html",
-    "imageUrl": "/img/leeby_round_anti_stress_cat_bed.jpeg",
-    "originalPrice": 22.99,
-    "price": 11.5,
-    "details": [
-      "15 × 50 × 50 cm - soft gray faux fur",
-      "Donut shape - calming / anti-stress",
-      "Removable washable cover + reversible cushion"
+      "Black mesh - adjustable lumbar & headrest",
+      "3D armrests - tilt up to 130°",
+      "Chrome base - up to 150 kg"
     ],
     "state": "available",
     "purchaser": "id"
@@ -46,7 +52,7 @@
     "url": "https://www.beliani.es/carrito-de-cocina-negro-madera-clara-trapani.html",
     "imageUrl": "/img/beliani_trapani_kitchen_cart.jpeg",
     "originalPrice": 169.99,
-    "price": 85,
+    "price": 84,
     "details": [
       "Black MDF + light rubber-wood top",
       "Drawer, cabinet & 2 open shelves - casters",
@@ -56,15 +62,43 @@
     "purchaser": "id"
   },
   {
-    "name": "Russell Hobbs Victory - Long Slot Toaster",
-    "url": "https://es.russellhobbs.com/producto/tostadora-victory-ranura-larga-dos-rebanadas",
-    "imageUrl": "/img/russell_hobbs_victory_long_slot_toaster.jpeg",
-    "originalPrice": 53.99,
-    "price": 27,
+    "name": "Joseph Joseph Totem Compact 40L - Waste & Recycling Bin",
+    "url": "https://eu.josephjoseph.com/products/totem-compact-40l-waste-recycling-bins-grey",
+    "imageUrl": "/img/joseph_joseph_totem_compact_40l.jpeg",
+    "originalPrice": 199.99,
+    "price": 99,
     "details": [
-      "Polished stainless - 1 long slot for 2 slices",
-      "Bun warmer + lift & look",
-      "Defrost & cancel - 1000 W"
+      "Grey - 2×20L + 3L food caddy",
+      "Integrated odour control",
+      "H76 × W30 × D36.6 cm"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Joseph Joseph Duo - Tiered Organiser with Drawer",
+    "url": "https://www.leroymerlin.es/productos/organizador-escalonado-con-cajon-duo-joseph-joseph-de-17x11cm-90379464.html",
+    "imageUrl": "/img/joseph_joseph_duo_tiered_organiser.jpeg",
+    "originalPrice": 19.79,
+    "price": 9,
+    "details": [
+      "Grey - 3 tiers + pull-out drawer",
+      "17 × 11 × 26 cm - non-slip shelves",
+      "Compact cupboard / pantry organiser"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Instant Pot Duo - Pressure Cooker",
+    "url": "https://www.amazon.es/Instant-Programable-Programas-Yogurtera-Inoxidable/dp/B08Z4HCGDH",
+    "imageUrl": "/img/instant_pot_duo.jpeg",
+    "originalPrice": 69.99,
+    "price": 34,
+    "details": [
+      "7-in-1 multicooker",
+      "Pressure cooker, slow cooker, rice cooker, steamer, yogurt maker",
+      "Original box included"
     ],
     "state": "available",
     "purchaser": "id"
@@ -84,43 +118,85 @@
     "purchaser": "id"
   },
   {
-    "name": "SIHOO M57 - Ergonomic Office Chair",
-    "url": "https://www.amazon.es/SIHOO-Ergonomic-Backrest-Breathable-Adjustable/dp/B085GDG45B?th=1",
-    "imageUrl": "/img/sihoo_m57_ergonomic_office_chair.jpeg",
-    "originalPrice": 249.99,
-    "price": 125,
+    "name": "Taurus Magnum 1500 - Blender",
+    "url": "https://www.elcorteingles.es/electrodomesticos/A45221161-batidora-de-vaso-taurus-magnum-1500-con-15-litros-de-capacidad/",
+    "imageUrl": "/img/blender_taurus_magnum.jpeg",
+    "originalPrice": 42.9,
+    "price": 21,
     "details": [
-      "Dark grey mesh - adjustable lumbar & headrest",
-      "3D armrests - tilt up to 135°",
-      "Chrome base - up to 150 kg"
+      "1500 W - 1,5 L glass jar",
+      "2 speeds + turbo",
+      "Original box included"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Ticova M8 - Ergonomic Office Chair",
-    "url": "https://www.amazon.es/dp/B09GNPLXMZ",
-    "imageUrl": "/img/ticova_ergonomic_office_chair.jpeg",
-    "originalPrice": 139.99,
-    "price": 70,
+    "name": "Russell Hobbs Victory - Long Slot Toaster",
+    "url": "https://es.russellhobbs.com/producto/tostadora-victory-ranura-larga-dos-rebanadas",
+    "imageUrl": "/img/russell_hobbs_victory_long_slot_toaster.jpeg",
+    "originalPrice": 53.99,
+    "price": 26,
     "details": [
-      "Black mesh - adjustable lumbar & headrest",
-      "3D armrests - tilt up to 130°",
-      "Chrome base - up to 150 kg"
+      "Polished stainless - 1 long slot for 2 slices",
+      "Bun warmer + lift & look",
+      "Defrost & cancel - 1000 W"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Joseph Joseph Totem Compact 40L - Waste & Recycling Bin",
-    "url": "https://eu.josephjoseph.com/products/totem-compact-40l-waste-recycling-bins-grey",
-    "imageUrl": "/img/joseph_joseph_totem_compact_40l.jpeg",
-    "originalPrice": 199.99,
-    "price": 100,
+    "name": "MasterClass Roasting Tin",
+    "url": "https://www.elcorteingles.es/hogar/A51219956-5057982105297-pr-bandeja-para-asar-antiadherente-masterclass-gris-grande/",
+    "imageUrl": "/img/roasting_tin_masterclass.jpeg",
+    "originalPrice": 21.95,
+    "price": 10,
     "details": [
-      "Grey - 2×20L + 3L food caddy",
-      "Integrated odour control",
-      "H76 × W30 × D36.6 cm"
+      "Non-stick carbon steel",
+      "Bought at El Corte Inglés"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "MasterClass Bundt Cake Tin",
+    "url": "https://www.elcorteingles.es/hogar/A51219960-5057982105334-pr-molde-savarin-rizado-masterclass-gris/",
+    "imageUrl": "/img/bundt_tin_masterclass.jpeg",
+    "originalPrice": 19.95,
+    "price": 9,
+    "details": [
+      "Non-stick fluted ring mould",
+      "Bought at El Corte Inglés"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Calais Wine Glasses 65cl - Set of 4",
+    "url": "https://www.elcorteingles.es/hogar/A17145247-2401980129701-pr-juego-de-4-copas-de-vino-calais-el-corte-ingles-65-cl/",
+    "imageUrl": "/img/wine_glasses_65cl.jpeg",
+    "originalPrice": 21.95,
+    "price": 10,
+    "details": [
+      "El Corte Inglés - Calais",
+      "4 glasses - 65 cl",
+      "Crystalline glass",
+      "Original box included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Calais Wine Glasses 52cl - Set of 4",
+    "url": "https://www.elcorteingles.es/hogar/A17145247-2401980129718-pr-juego-de-4-copas-de-vino-calais-el-corte-ingles-52-cl/",
+    "imageUrl": "/img/wine_glasses_52cl.jpeg",
+    "originalPrice": 21.95,
+    "price": 10,
+    "details": [
+      "El Corte Inglés - Calais",
+      "4 glasses - 52 cl",
+      "Crystalline glass",
+      "Original box included"
     ],
     "state": "available",
     "purchaser": "id"
@@ -138,22 +214,16 @@
     "purchaser": "id"
   },
   {
-    "name": "Ikea TROTTEN - Standing desk",
-    "url": "https://www.ikea.com/es/es/p/trotten-escritorio-elevable-blanco-s99429578/",
-    "imageUrl": "/img/trotten_standing_desk.jpeg",
-    "originalPrice": 189,
-    "price": 95,
-    "details": ["120 x 70 cm", "Sit/stand - manual crank", "White"],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Massage Gun - Tunturi",
-    "url": "https://www.decathlon.es/es/p/mp/pistola-de-masaje-tunturi-aparato-de-masaje-incluye-estuche/f18895a8-a74d-4f32-8a20-1cee087bafc2/c1c9?LGWCODE=1",
-    "imageUrl": "/img/massage_gun.jpeg",
-    "originalPrice": 89.99,
-    "price": 30,
-    "details": ["Immediate pick up possible"],
+    "name": "Kärcher WV 1 Plus - Window Vacuum",
+    "url": "https://www.amazon.es/dp/B0CQTG8F4H?th=1",
+    "imageUrl": "/img/karcher_wv_1_plus.jpeg",
+    "originalPrice": 46.2,
+    "price": 23,
+    "details": [
+      "Cordless - up to 20 min runtime",
+      "Spray bottle + microfibre cloth + 20 ml cleaner",
+      "100 ml dirty-water tank - 0.5 kg"
+    ],
     "state": "available",
     "purchaser": "id"
   },
@@ -168,95 +238,35 @@
     "purchaser": "id"
   },
   {
-    "name": "Instant Pot Duo - Pressure Cooker",
-    "url": "https://www.amazon.es/Instant-Programable-Programas-Yogurtera-Inoxidable/dp/B08Z4HCGDH",
-    "imageUrl": "/img/instant_pot_duo.jpeg",
-    "originalPrice": 69.99,
-    "price": 35,
-    "details": [
-      "7-in-1 multicooker",
-      "Pressure cooker, slow cooker, rice cooker, steamer, yogurt maker",
-      "Original box included"
-    ],
+    "name": "LED Bulbs E27 - Set of 3",
+    "url": "https://www.lamparas.es/bombillas/9734-pack-3-bombillas-led-e27-estandar-10-w-luz-neutra-a2bc-8436564570635.html",
+    "imageUrl": "/img/led_bulbs.jpeg",
+    "originalPrice": 9.99,
+    "price": 4,
+    "details": ["3 bulbs", "E27 socket - 10W"],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Ikea TROTTEN - Desk",
-    "url": "https://www.ikea.com/es/es/p/trotten-escritorio-blanco-s29424942/",
-    "imageUrl": "/img/trotten_desk.jpeg",
-    "originalPrice": 69,
-    "price": 35,
-    "details": ["120 x 70 cm", "White"],
+    "name": "Massage Gun - Tunturi",
+    "url": "https://www.decathlon.es/es/p/mp/pistola-de-masaje-tunturi-aparato-de-masaje-incluye-estuche/f18895a8-a74d-4f32-8a20-1cee087bafc2/c1c9?LGWCODE=1",
+    "imageUrl": "/img/massage_gun.jpeg",
+    "originalPrice": 89.99,
+    "price": 30,
+    "details": ["Immediate pick up possible"],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "Taurus Magnum 1500 - Blender",
-    "url": "https://www.elcorteingles.es/electrodomesticos/A45221161-batidora-de-vaso-taurus-magnum-1500-con-15-litros-de-capacidad/",
-    "imageUrl": "/img/blender_taurus_magnum.jpeg",
-    "originalPrice": 42.9,
-    "price": 22,
-    "details": [
-      "1500 W - 1,5 L glass jar",
-      "2 speeds + turbo",
-      "Original box included"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Calais Wine Glasses 65cl - Set of 4",
-    "url": "https://www.elcorteingles.es/hogar/A17145247-2401980129701-pr-juego-de-4-copas-de-vino-calais-el-corte-ingles-65-cl/",
-    "imageUrl": "/img/wine_glasses_65cl.jpeg",
-    "originalPrice": 21.95,
+    "name": "Leeby - Round Anti-stress Cat Bed",
+    "url": "https://www.tiendanimal.es/leeby-cama-redonda-antiestres-de-pelo-gris-para-gatos/LBB41528_M.html",
+    "imageUrl": "/img/leeby_round_anti_stress_cat_bed.jpeg",
+    "originalPrice": 22.99,
     "price": 11,
     "details": [
-      "El Corte Inglés - Calais",
-      "4 glasses - 65 cl",
-      "Crystalline glass",
-      "Original box included"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Calais Wine Glasses 52cl - Set of 4",
-    "url": "https://www.elcorteingles.es/hogar/A17145247-2401980129718-pr-juego-de-4-copas-de-vino-calais-el-corte-ingles-52-cl/",
-    "imageUrl": "/img/wine_glasses_52cl.jpeg",
-    "originalPrice": 21.95,
-    "price": 11,
-    "details": [
-      "El Corte Inglés - Calais",
-      "4 glasses - 52 cl",
-      "Crystalline glass",
-      "Original box included"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "MasterClass Roasting Tin",
-    "url": "https://www.elcorteingles.es/hogar/A51219956-5057982105297-pr-bandeja-para-asar-antiadherente-masterclass-gris-grande/",
-    "imageUrl": "/img/roasting_tin_masterclass.jpeg",
-    "originalPrice": 21.95,
-    "price": 11,
-    "details": [
-      "Non-stick carbon steel",
-      "Bought at El Corte Inglés"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "MasterClass Bundt Cake Tin",
-    "url": "https://www.elcorteingles.es/hogar/A51219960-5057982105334-pr-molde-savarin-rizado-masterclass-gris/",
-    "imageUrl": "/img/bundt_tin_masterclass.jpeg",
-    "originalPrice": 19.95,
-    "price": 10,
-    "details": [
-      "Non-stick fluted ring mould",
-      "Bought at El Corte Inglés"
+      "15 × 50 × 50 cm - soft gray faux fur",
+      "Donut shape - calming / anti-stress",
+      "Removable washable cover + reversible cushion"
     ],
     "state": "available",
     "purchaser": "id"
@@ -266,7 +276,7 @@
     "url": "https://www.amazon.es/Petstages-Nina-Madness-Rompecabezas-Gatos-Juguete-Interactivo-dispensador/dp/B0872JDX24",
     "imageUrl": "/img/cat_puzzle_melon_madness.jpeg",
     "originalPrice": 19.6,
-    "price": 10,
+    "price": 9,
     "details": [
       "Nina Ottosson - interactive treat puzzle",
       "12 hidden treat cups",
@@ -282,16 +292,6 @@
     "originalPrice": 18.99,
     "price": 9,
     "details": ["Genuine hardwood blocks", "Original box included"],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "LED Bulbs E27 - Set of 3",
-    "url": "https://www.lamparas.es/bombillas/9734-pack-3-bombillas-led-e27-estandar-10-w-luz-neutra-a2bc-8436564570635.html",
-    "imageUrl": "/img/led_bulbs.jpeg",
-    "originalPrice": 9.99,
-    "price": 5,
-    "details": ["3 bulbs", "E27 socket - 10W"],
     "state": "available",
     "purchaser": "id"
   }
