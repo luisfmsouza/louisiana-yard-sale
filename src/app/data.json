@@ -1,5 +1,19 @@
 [
   {
+    "name": "Russell Hobbs Victory - Long Slot Toaster",
+    "url": "https://es.russellhobbs.com/producto/tostadora-victory-ranura-larga-dos-rebanadas",
+    "imageUrl": "/img/russell_hobbs_victory_long_slot_toaster.jpeg",
+    "originalPrice": 53.99,
+    "price": 27,
+    "details": [
+      "Polished stainless - 1 long slot for 2 slices",
+      "Bun warmer + lift & look",
+      "Defrost & cancel - 1000 W"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "NutriBullet Original 600 - Starter Kit",
     "url": "https://www.amazon.es/dp/B09MJ69SG3",
     "imageUrl": "/img/nutribullet_original_600_starter_kit.jpeg",
