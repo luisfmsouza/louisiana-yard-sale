@@ -1,5 +1,33 @@
 [
   {
+    "name": "NutriBullet Original 600 - Starter Kit",
+    "url": "https://www.amazon.es/dp/B09MJ69SG3",
+    "imageUrl": "/img/nutribullet_original_600_starter_kit.jpeg",
+    "originalPrice": 54.9,
+    "price": 27,
+    "details": [
+      "600W - dark grey base",
+      "700ml cup + extractor blade",
+      "Original box included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "SIHOO M57 - Ergonomic Office Chair",
+    "url": "https://www.amazon.es/SIHOO-Ergonomic-Backrest-Breathable-Adjustable/dp/B085GDG45B?th=1",
+    "imageUrl": "/img/sihoo_m57_ergonomic_office_chair.jpeg",
+    "originalPrice": 249.99,
+    "price": 125,
+    "details": [
+      "Dark grey mesh - adjustable lumbar & headrest",
+      "3D armrests - tilt up to 135°",
+      "Chrome base - up to 150 kg"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Ticova M8 - Ergonomic Office Chair",
     "url": "https://www.amazon.es/dp/B09GNPLXMZ",
     "imageUrl": "/img/ticova_ergonomic_office_chair.jpeg",
