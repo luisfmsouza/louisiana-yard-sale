@@ -1,5 +1,19 @@
 [
   {
+    "name": "Ticova M8 - Ergonomic Office Chair",
+    "url": "https://www.amazon.es/dp/B09GNPLXMZ",
+    "imageUrl": "/img/ticova_ergonomic_office_chair.jpeg",
+    "originalPrice": 139.99,
+    "price": 70,
+    "details": [
+      "Black mesh - adjustable lumbar & headrest",
+      "3D armrests - tilt up to 130°",
+      "Chrome base - up to 150 kg"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Joseph Joseph Totem Compact 40L - Waste & Recycling Bin",
     "url": "https://eu.josephjoseph.com/products/totem-compact-40l-waste-recycling-bins-grey",
     "imageUrl": "/img/joseph_joseph_totem_compact_40l.jpeg",
