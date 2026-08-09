@@ -183,7 +183,7 @@
       "Crystalline glass",
       "Original box included"
     ],
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
@@ -198,7 +198,7 @@
       "Crystalline glass",
       "Original box included"
     ],
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
@@ -207,9 +207,7 @@
     "imageUrl": "/img/vaccum_robot.jpeg",
     "originalPrice": 112,
     "price": 30,
-    "details": [
-      "Pick up in December"
-    ],
+    "details": ["Original box included"],
     "state": "available",
     "purchaser": "id"
   },
@@ -238,12 +236,16 @@
     "purchaser": "id"
   },
   {
-    "name": "LED Bulbs E27 - Set of 3",
-    "url": "https://www.lamparas.es/bombillas/9734-pack-3-bombillas-led-e27-estandar-10-w-luz-neutra-a2bc-8436564570635.html",
+    "name": "Philips Smart LED Bulbs E27 - Set of 3",
+    "url": "https://www.mediamarkt.es/es/product/_bombilla-inteligente-philips-phi-wfb-60w-a60-e27-827-65-tw-2pf6-tonos-blancos-pack-2-806-lumenes-blanco-1599650.html",
     "imageUrl": "/img/led_bulbs.jpeg",
-    "originalPrice": 9.99,
-    "price": 4,
-    "details": ["3 bulbs", "E27 socket - 10W"],
+    "originalPrice": 33,
+    "price": 16,
+    "details": [
+      "3 smart bulbs - E27",
+      "Wi-Fi + Bluetooth - app & voice control",
+      "Tunable white - 8,5 W / 806 lm"
+    ],
     "state": "available",
     "purchaser": "id"
   },
