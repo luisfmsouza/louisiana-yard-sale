@@ -1,5 +1,19 @@
 [
   {
+    "name": "Kärcher WV 1 Plus - Window Vacuum",
+    "url": "https://www.amazon.es/dp/B0CQTG8F4H?th=1",
+    "imageUrl": "/img/karcher_wv_1_plus.jpeg",
+    "originalPrice": 46.2,
+    "price": 23,
+    "details": [
+      "Cordless - up to 20 min runtime",
+      "Spray bottle + microfibre cloth + 20 ml cleaner",
+      "100 ml dirty-water tank - 0.5 kg"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Joseph Joseph Duo - Tiered Organiser with Drawer",
     "url": "https://www.leroymerlin.es/productos/organizador-escalonado-con-cajon-duo-joseph-joseph-de-17x11cm-90379464.html",
     "imageUrl": "/img/joseph_joseph_duo_tiered_organiser.jpeg",
