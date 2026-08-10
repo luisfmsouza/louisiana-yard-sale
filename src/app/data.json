@@ -6,7 +6,7 @@
     "originalPrice": 189,
     "price": 94,
     "details": ["120 x 70 cm", "Sit/stand - manual crank", "White"],
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
@@ -44,7 +44,7 @@
       "3D armrests - tilt up to 130°",
       "Chrome base - up to 150 kg"
     ],
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
@@ -72,7 +72,7 @@
       "Integrated odour control",
       "H76 × W30 × D36.6 cm"
     ],
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
