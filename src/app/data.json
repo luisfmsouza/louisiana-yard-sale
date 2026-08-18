@@ -1,5 +1,19 @@
 [
   {
+    "name": "Samsung Q64D 55\" - QLED 4K TV",
+    "url": "https://www.idealo.es/precios/204326715/samsung-tq55q64dauxxc.html",
+    "imageUrl": "/img/samsung_q64d_qled_55.jpeg",
+    "originalPrice": 494.88,
+    "price": 300,
+    "details": [
+      "55\" QLED 4K (3840 x 2160) - HDR10+",
+      "Quantum Lite 4K processor - Tizen Smart TV",
+      "Stand included - Wi-Fi + Bluetooth"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Ikea TROTTEN - Standing desk",
     "url": "https://www.ikea.com/es/es/p/trotten-escritorio-elevable-blanco-s99429578/",
     "imageUrl": "/img/trotten_standing_desk.jpeg",
