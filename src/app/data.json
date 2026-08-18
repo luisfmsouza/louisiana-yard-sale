@@ -232,7 +232,7 @@
     "originalPrice": 79.99,
     "price": 35,
     "details": ["White", "Original box included"],
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
@@ -252,7 +252,7 @@
     "originalPrice": 89.99,
     "price": 30,
     "details": ["Immediate pick up possible"],
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
