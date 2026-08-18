@@ -256,34 +256,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Leeby - Round Anti-stress Cat Bed",
-    "url": "https://www.tiendanimal.es/leeby-cama-redonda-antiestres-de-pelo-gris-para-gatos/LBB41528_M.html",
-    "imageUrl": "/img/leeby_round_anti_stress_cat_bed.jpeg",
-    "originalPrice": 22.99,
-    "price": 11,
-    "details": [
-      "15 × 50 × 50 cm - soft gray faux fur",
-      "Donut shape - calming / anti-stress",
-      "Removable washable cover + reversible cushion"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Catstages Melon Madness - Cat Puzzle",
-    "url": "https://www.amazon.es/Petstages-Nina-Madness-Rompecabezas-Gatos-Juguete-Interactivo-dispensador/dp/B0872JDX24",
-    "imageUrl": "/img/cat_puzzle_melon_madness.jpeg",
-    "originalPrice": 19.6,
-    "price": 9,
-    "details": [
-      "Nina Ottosson - interactive treat puzzle",
-      "12 hidden treat cups",
-      "Original box included"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Jenga Classic - Hasbro",
     "url": "https://www.toysrus.es/Jenga-(A2120EU4)/p/K1018483",
     "imageUrl": "/img/jenga.jpeg",
