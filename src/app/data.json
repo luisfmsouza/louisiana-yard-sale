@@ -208,7 +208,7 @@
     "originalPrice": 112,
     "price": 30,
     "details": ["Original box included"],
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
