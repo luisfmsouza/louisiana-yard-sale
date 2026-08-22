@@ -16,6 +16,7 @@ interface Product {
   details: string[];
   imageUrl?: string;
   url: string;
+  category: string;
   state: ProduceState;
   purchaser: string;
 }
@@ -23,6 +24,29 @@ interface Product {
 interface ProductListProps {
   products: Product[];
 }
+
+const CATEGORY_ORDER = [
+  "Furniture",
+  "Kitchen & Dining",
+  "Small Appliances",
+  "Electronics & Smart Home",
+  "Home & Cleaning",
+  "Wellness & Fitness",
+  "Games & Leisure",
+];
+
+const groupByCategory = (products: Product[]) => {
+  const groups = new Map<string, Product[]>();
+  for (const product of products) {
+    const group = groups.get(product.category) ?? [];
+    group.push(product);
+    groups.set(product.category, group);
+  }
+  return CATEGORY_ORDER.map((category) => ({
+    category,
+    products: groups.get(category) ?? [],
+  })).filter((group) => group.products.length > 0);
+};
 
 const STATE_LABEL: Record<ProduceState, string> = {
   [ProduceState.available]: "AVAILABLE",
@@ -66,6 +90,17 @@ const ProductList = ({ products }: ProductListProps) => (
   </div>
 );
 
+const CategorySections = ({ products }: ProductListProps) => (
+  <>
+    {groupByCategory(products).map(({ category, products: categoryProducts }) => (
+      <section key={category}>
+        <h2 className={styles.categoryHeading}>{category}</h2>
+        <ProductList products={categoryProducts} />
+      </section>
+    ))}
+  </>
+);
+
 export default function Home() {
   const typedProducts = products as Product[];
 
@@ -73,7 +108,7 @@ export default function Home() {
     <div>
       <Header />
 
-      <ProductList products={typedProducts} />
+      <CategorySections products={typedProducts} />
     </div>
   );
 }

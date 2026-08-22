@@ -1,95 +1,12 @@
 [
   {
-    "name": "Ikea FARGKLAR - Dinner Bowls Set of 6",
-    "url": "https://www.ikea.com/es/es/p/fargklar-cuenco-mate-gris-claro-50479353/",
-    "imageUrl": "/img/ikea_365_bowls_set_6.jpeg",
-    "originalPrice": 24,
-    "price": 12,
-    "details": [
-      "Matte grey porcelain",
-      "Dinner bowls - set of 6",
-      "Durable stoneware"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "IKEA STORSINT - Clear Glass (Set of 6)",
-    "url": "https://www.ikea.com/es/en/p/storsint-glass-clear-glass-40396018/",
-    "imageUrl": "/img/ikea_storsint_glasses_set_6.jpeg",
-    "originalPrice": 8,
-    "price": 4,
-    "details": [
-      "6 clear glasses - STORSINT",
-      "40 cl each",
-      "Dishwasher safe"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "IKEA 365+ - Square Glass Food Containers with Lids",
-    "url": "https://www.ikea.com/es/es/p/ikea-365-bote-con-tapa-cuadrado-vidrio-10623833/",
-    "imageUrl": "/img/ikea_365_glass_containers.jpeg",
-    "originalPrice": 18.98,
-    "price": 9,
-    "details": [
-      "Glass square containers with plastic lids",
-      "600 ml capacity - hermetic pressure-closure lid",
-      "Heat-resistant glass - microwave & freezer safe"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "IKEA FÄRGKLAR - 18-Piece Dinnerware Set",
-    "url": "https://www.ikea.com/es/en/p/fargklar-18-piece-service-matt-light-grey-70564699/",
-    "imageUrl": "/img/ikea_fargklar_dinnerware_set.jpeg",
-    "originalPrice": 34.99,
-    "price": 17,
-    "details": [
-      "Matt light grey - 6 deep plates, 6 plates, 6 side plates",
-      "Porcelain with subtle ribbed pattern",
-      "Microwave and dishwasher safe"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "IKEA 365+ - 6-Piece Stainless Steel Cookware Set + Pasta Pan",
-    "url": "https://www.ikea.com/es/es/p/ikea-365-bateria-cocina-6-piezas-acero-inoxidable-80484329/",
-    "imageUrl": "/img/ikea_annons_cookware_pots.jpeg",
-    "originalPrice": 44.99,
-    "price": 22,
-    "details": [
-      "6-piece stainless steel cookware set with glass lids",
-      "5L pot + 3L pot + 2L saucepan with lids",
-      "Plus additional matching pasta preparation pan"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Samsung Q64D 55\" - QLED 4K TV",
-    "url": "https://www.idealo.es/precios/204326715/samsung-tq55q64dauxxc.html",
-    "imageUrl": "/img/samsung_q64d_qled_55.jpeg",
-    "originalPrice": 494.88,
-    "price": 300,
-    "details": [
-      "55\" QLED 4K (3840 x 2160) - HDR10+",
-      "Quantum Lite 4K processor - Tizen Smart TV",
-      "Stand included - Wi-Fi + Bluetooth"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
     "name": "Ikea TROTTEN - Desk",
     "url": "https://www.ikea.com/es/es/p/trotten-escritorio-blanco-s29424942/",
     "imageUrl": "/img/trotten_desk.jpeg",
     "originalPrice": 69,
     "price": 34,
     "details": ["120 x 70 cm", "White"],
+    "category": "Furniture",
     "state": "available",
     "purchaser": "id"
   },
@@ -104,6 +21,7 @@
       "3D armrests - tilt up to 135°",
       "Chrome base - up to 150 kg"
     ],
+    "category": "Furniture",
     "state": "available",
     "purchaser": "id"
   },
@@ -118,6 +36,108 @@
       "Drawer, cabinet & 2 open shelves - casters",
       "75 × 44 × 87 cm"
     ],
+    "category": "Furniture",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea TROTTEN - Standing desk",
+    "url": "https://www.ikea.com/es/es/p/trotten-escritorio-elevable-blanco-s99429578/",
+    "imageUrl": "/img/trotten_standing_desk.jpeg",
+    "originalPrice": 189,
+    "price": 94,
+    "details": ["120 x 70 cm", "Sit/stand - manual crank", "White"],
+    "category": "Furniture",
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ticova M8 - Ergonomic Office Chair",
+    "url": "https://www.amazon.es/dp/B09GNPLXMZ",
+    "imageUrl": "/img/ticova_ergonomic_office_chair.jpeg",
+    "originalPrice": 139.99,
+    "price": 69,
+    "details": [
+      "Black mesh - adjustable lumbar & headrest",
+      "3D armrests - tilt up to 130°",
+      "Chrome base - up to 150 kg"
+    ],
+    "category": "Furniture",
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea FARGKLAR - Dinner Bowls Set of 6",
+    "url": "https://www.ikea.com/es/es/p/fargklar-cuenco-mate-gris-claro-50479353/",
+    "imageUrl": "/img/ikea_365_bowls_set_6.jpeg",
+    "originalPrice": 24,
+    "price": 12,
+    "details": [
+      "Matte grey porcelain",
+      "Dinner bowls - set of 6",
+      "Durable stoneware"
+    ],
+    "category": "Kitchen & Dining",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA STORSINT - Clear Glass (Set of 6)",
+    "url": "https://www.ikea.com/es/en/p/storsint-glass-clear-glass-40396018/",
+    "imageUrl": "/img/ikea_storsint_glasses_set_6.jpeg",
+    "originalPrice": 8,
+    "price": 4,
+    "details": [
+      "6 clear glasses - STORSINT",
+      "40 cl each",
+      "Dishwasher safe"
+    ],
+    "category": "Kitchen & Dining",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA 365+ - Square Glass Food Containers with Lids",
+    "url": "https://www.ikea.com/es/es/p/ikea-365-bote-con-tapa-cuadrado-vidrio-10623833/",
+    "imageUrl": "/img/ikea_365_glass_containers.jpeg",
+    "originalPrice": 18.98,
+    "price": 9,
+    "details": [
+      "Glass square containers with plastic lids",
+      "600 ml capacity - hermetic pressure-closure lid",
+      "Heat-resistant glass - microwave & freezer safe"
+    ],
+    "category": "Kitchen & Dining",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA FÄRGKLAR - 18-Piece Dinnerware Set",
+    "url": "https://www.ikea.com/es/en/p/fargklar-18-piece-service-matt-light-grey-70564699/",
+    "imageUrl": "/img/ikea_fargklar_dinnerware_set.jpeg",
+    "originalPrice": 34.99,
+    "price": 17,
+    "details": [
+      "Matt light grey - 6 deep plates, 6 plates, 6 side plates",
+      "Porcelain with subtle ribbed pattern",
+      "Microwave and dishwasher safe"
+    ],
+    "category": "Kitchen & Dining",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA 365+ - 6-Piece Stainless Steel Cookware Set + Pasta Pan",
+    "url": "https://www.ikea.com/es/es/p/ikea-365-bateria-cocina-6-piezas-acero-inoxidable-80484329/",
+    "imageUrl": "/img/ikea_annons_cookware_pots.jpeg",
+    "originalPrice": 44.99,
+    "price": 22,
+    "details": [
+      "6-piece stainless steel cookware set with glass lids",
+      "5L pot + 3L pot + 2L saucepan with lids",
+      "Plus additional matching pasta preparation pan"
+    ],
+    "category": "Kitchen & Dining",
     "state": "available",
     "purchaser": "id"
   },
@@ -132,82 +152,7 @@
       "17 × 11 × 26 cm - non-slip shelves",
       "Compact cupboard / pantry organiser"
     ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "NutriBullet Original 600 - Starter Kit",
-    "url": "https://www.amazon.es/dp/B09MJ69SG3",
-    "imageUrl": "/img/nutribullet_original_600_starter_kit.jpeg",
-    "originalPrice": 54.9,
-    "price": 27,
-    "details": [
-      "600W - dark grey base",
-      "700ml cup + extractor blade",
-      "Original box included"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Taurus Magnum 1500 - Blender",
-    "url": "https://www.elcorteingles.es/electrodomesticos/A45221161-batidora-de-vaso-taurus-magnum-1500-con-15-litros-de-capacidad/",
-    "imageUrl": "/img/blender_taurus_magnum.jpeg",
-    "originalPrice": 42.9,
-    "price": 21,
-    "details": [
-      "1500 W - 1,5 L glass jar",
-      "2 speeds + turbo",
-      "Original box included"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Russell Hobbs Victory - Long Slot Toaster",
-    "url": "https://es.russellhobbs.com/producto/tostadora-victory-ranura-larga-dos-rebanadas",
-    "imageUrl": "/img/russell_hobbs_victory_long_slot_toaster.jpeg",
-    "originalPrice": 53.99,
-    "price": 26,
-    "details": [
-      "Polished stainless - 1 long slot for 2 slices",
-      "Bun warmer + lift & look",
-      "Defrost & cancel - 1000 W"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Kärcher WV 1 Plus - Window Vacuum",
-    "url": "https://www.amazon.es/dp/B0CQTG8F4H?th=1",
-    "imageUrl": "/img/karcher_wv_1_plus.jpeg",
-    "originalPrice": 46.2,
-    "price": 23,
-    "details": [
-      "Cordless - up to 20 min runtime",
-      "Spray bottle + microfibre cloth + 20 ml cleaner",
-      "100 ml dirty-water tank - 0.5 kg"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "LED Bulbs E27 - Set of 3",
-    "url": "https://www.lamparas.es/bombillas/9734-pack-3-bombillas-led-e27-estandar-10-w-luz-neutra-a2bc-8436564570635.html",
-    "imageUrl": "/img/led_bulbs.jpeg",
-    "originalPrice": 9.99,
-    "price": 4,
-    "details": ["3 bulbs", "E27 socket - 10W"],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Jenga Classic - Hasbro",
-    "url": "https://www.toysrus.es/Jenga-(A2120EU4)/p/K1018483",
-    "imageUrl": "/img/jenga.jpeg",
-    "originalPrice": 18.99,
-    "price": 9,
-    "details": ["Genuine hardwood blocks", "Original box included"],
+    "category": "Kitchen & Dining",
     "state": "available",
     "purchaser": "id"
   },
@@ -218,6 +163,7 @@
     "originalPrice": 7.99,
     "price": 4,
     "details": ["Manual knife sharpener", "Black", "Compact design"],
+    "category": "Kitchen & Dining",
     "state": "available",
     "purchaser": "id"
   },
@@ -228,6 +174,7 @@
     "originalPrice": 39.99,
     "price": 19,
     "details": ["3 pieces - Chef's knife, utility knife, paring knife", "Light grey and white handles", "Extra 2 other knifes"],
+    "category": "Kitchen & Dining",
     "state": "available",
     "purchaser": "id"
   },
@@ -238,21 +185,7 @@
     "originalPrice": 39,
     "price": 19,
     "details": ["30 pieces - forks, spoons, knives", "Stainless steel"],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Freidora de aire – Philips Airfryer NA221/00",
-    "url": "https://www.mediamarkt.es/es/product/_freidora-de-aire-philips-na22100-150000-w-negro-plata-142487565.html",
-    "imageUrl": "/img/philips_airfryer_na221.jpeg",
-    "originalPrice": 80,
-    "price": 40,
-    "details": [
-      "4.2 L capacity - 1500W",
-      "Exclusive RapidAir technology",
-      "Black and silver finish",
-      "Window for monitoring cooking"
-    ],
+    "category": "Kitchen & Dining",
     "state": "available",
     "purchaser": "id"
   },
@@ -267,6 +200,7 @@
       "Yellow precision food-grip handle",
       "Transparent measuring base with storage"
     ],
+    "category": "Kitchen & Dining",
     "state": "available",
     "purchaser": "id"
   },
@@ -281,6 +215,7 @@
       "Polypropylene - dishwasher safe",
       "0.5 L glass jar"
     ],
+    "category": "Kitchen & Dining",
     "state": "available",
     "purchaser": "id"
   },
@@ -295,6 +230,7 @@
       "Grates hard cheese, chocolate, nuts & veg",
       "Dishwasher safe - folds for storage"
     ],
+    "category": "Kitchen & Dining",
     "state": "available",
     "purchaser": "id"
   },
@@ -310,6 +246,7 @@
       "Crystalline glass",
       "Original box included"
     ],
+    "category": "Kitchen & Dining",
     "state": "reserved",
     "purchaser": "id"
   },
@@ -325,59 +262,8 @@
       "Crystalline glass",
       "Original box included"
     ],
+    "category": "Kitchen & Dining",
     "state": "reserved",
-    "purchaser": "id"
-  },
-  {
-    "name": "Ikea TROTTEN - Standing desk",
-    "url": "https://www.ikea.com/es/es/p/trotten-escritorio-elevable-blanco-s99429578/",
-    "imageUrl": "/img/trotten_standing_desk.jpeg",
-    "originalPrice": 189,
-    "price": 94,
-    "details": ["120 x 70 cm", "Sit/stand - manual crank", "White"],
-    "state": "sold",
-    "purchaser": "id"
-  },
-  {
-    "name": "Ticova M8 - Ergonomic Office Chair",
-    "url": "https://www.amazon.es/dp/B09GNPLXMZ",
-    "imageUrl": "/img/ticova_ergonomic_office_chair.jpeg",
-    "originalPrice": 139.99,
-    "price": 69,
-    "details": [
-      "Black mesh - adjustable lumbar & headrest",
-      "3D armrests - tilt up to 130°",
-      "Chrome base - up to 150 kg"
-    ],
-    "state": "sold",
-    "purchaser": "id"
-  },
-  {
-    "name": "Joseph Joseph Totem Compact 40L - Waste & Recycling Bin",
-    "url": "https://eu.josephjoseph.com/products/totem-compact-40l-waste-recycling-bins-grey",
-    "imageUrl": "/img/joseph_joseph_totem_compact_40l.jpeg",
-    "originalPrice": 199.99,
-    "price": 99,
-    "details": [
-      "Grey - 2×20L + 3L food caddy",
-      "Integrated odour control",
-      "H76 × W30 × D36.6 cm"
-    ],
-    "state": "sold",
-    "purchaser": "id"
-  },
-  {
-    "name": "Instant Pot Duo - Pressure Cooker",
-    "url": "https://www.amazon.es/Instant-Programable-Programas-Yogurtera-Inoxidable/dp/B08Z4HCGDH",
-    "imageUrl": "/img/instant_pot_duo.jpeg",
-    "originalPrice": 69.99,
-    "price": 34,
-    "details": [
-      "7-in-1 multicooker",
-      "Pressure cooker, slow cooker, rice cooker, steamer, yogurt maker",
-      "Original box included"
-    ],
-    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -390,6 +276,7 @@
       "Non-stick carbon steel",
       "Bought at El Corte Inglés"
     ],
+    "category": "Kitchen & Dining",
     "state": "sold",
     "purchaser": "id"
   },
@@ -403,7 +290,99 @@
       "Non-stick fluted ring mould",
       "Bought at El Corte Inglés"
     ],
+    "category": "Kitchen & Dining",
     "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "NutriBullet Original 600 - Starter Kit",
+    "url": "https://www.amazon.es/dp/B09MJ69SG3",
+    "imageUrl": "/img/nutribullet_original_600_starter_kit.jpeg",
+    "originalPrice": 54.9,
+    "price": 27,
+    "details": [
+      "600W - dark grey base",
+      "700ml cup + extractor blade",
+      "Original box included"
+    ],
+    "category": "Small Appliances",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Taurus Magnum 1500 - Blender",
+    "url": "https://www.elcorteingles.es/electrodomesticos/A45221161-batidora-de-vaso-taurus-magnum-1500-con-15-litros-de-capacidad/",
+    "imageUrl": "/img/blender_taurus_magnum.jpeg",
+    "originalPrice": 42.9,
+    "price": 21,
+    "details": [
+      "1500 W - 1,5 L glass jar",
+      "2 speeds + turbo",
+      "Original box included"
+    ],
+    "category": "Small Appliances",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Russell Hobbs Victory - Long Slot Toaster",
+    "url": "https://es.russellhobbs.com/producto/tostadora-victory-ranura-larga-dos-rebanadas",
+    "imageUrl": "/img/russell_hobbs_victory_long_slot_toaster.jpeg",
+    "originalPrice": 53.99,
+    "price": 26,
+    "details": [
+      "Polished stainless - 1 long slot for 2 slices",
+      "Bun warmer + lift & look",
+      "Defrost & cancel - 1000 W"
+    ],
+    "category": "Small Appliances",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Freidora de aire – Philips Airfryer NA221/00",
+    "url": "https://www.mediamarkt.es/es/product/_freidora-de-aire-philips-na22100-150000-w-negro-plata-142487565.html",
+    "imageUrl": "/img/philips_airfryer_na221.jpeg",
+    "originalPrice": 80,
+    "price": 40,
+    "details": [
+      "4.2 L capacity - 1500W",
+      "Exclusive RapidAir technology",
+      "Black and silver finish",
+      "Window for monitoring cooking"
+    ],
+    "category": "Small Appliances",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Instant Pot Duo - Pressure Cooker",
+    "url": "https://www.amazon.es/Instant-Programable-Programas-Yogurtera-Inoxidable/dp/B08Z4HCGDH",
+    "imageUrl": "/img/instant_pot_duo.jpeg",
+    "originalPrice": 69.99,
+    "price": 34,
+    "details": [
+      "7-in-1 multicooker",
+      "Pressure cooker, slow cooker, rice cooker, steamer, yogurt maker",
+      "Original box included"
+    ],
+    "category": "Small Appliances",
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Samsung Q64D 55\" - QLED 4K TV",
+    "url": "https://www.idealo.es/precios/204326715/samsung-tq55q64dauxxc.html",
+    "imageUrl": "/img/samsung_q64d_qled_55.jpeg",
+    "originalPrice": 494.88,
+    "price": 300,
+    "details": [
+      "55\" QLED 4K (3840 x 2160) - HDR10+",
+      "Quantum Lite 4K processor - Tizen Smart TV",
+      "Stand included - Wi-Fi + Bluetooth"
+    ],
+    "category": "Electronics & Smart Home",
+    "state": "available",
     "purchaser": "id"
   },
   {
@@ -413,6 +392,7 @@
     "originalPrice": 112,
     "price": 30,
     "details": ["Original box included"],
+    "category": "Electronics & Smart Home",
     "state": "sold",
     "purchaser": "id"
   },
@@ -423,6 +403,48 @@
     "originalPrice": 79.99,
     "price": 35,
     "details": ["White", "Original box included"],
+    "category": "Electronics & Smart Home",
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Kärcher WV 1 Plus - Window Vacuum",
+    "url": "https://www.amazon.es/dp/B0CQTG8F4H?th=1",
+    "imageUrl": "/img/karcher_wv_1_plus.jpeg",
+    "originalPrice": 46.2,
+    "price": 23,
+    "details": [
+      "Cordless - up to 20 min runtime",
+      "Spray bottle + microfibre cloth + 20 ml cleaner",
+      "100 ml dirty-water tank - 0.5 kg"
+    ],
+    "category": "Home & Cleaning",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "LED Bulbs E27 - Set of 3",
+    "url": "https://www.lamparas.es/bombillas/9734-pack-3-bombillas-led-e27-estandar-10-w-luz-neutra-a2bc-8436564570635.html",
+    "imageUrl": "/img/led_bulbs.jpeg",
+    "originalPrice": 9.99,
+    "price": 4,
+    "details": ["3 bulbs", "E27 socket - 10W"],
+    "category": "Home & Cleaning",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Joseph Joseph Totem Compact 40L - Waste & Recycling Bin",
+    "url": "https://eu.josephjoseph.com/products/totem-compact-40l-waste-recycling-bins-grey",
+    "imageUrl": "/img/joseph_joseph_totem_compact_40l.jpeg",
+    "originalPrice": 199.99,
+    "price": 99,
+    "details": [
+      "Grey - 2×20L + 3L food caddy",
+      "Integrated odour control",
+      "H76 × W30 × D36.6 cm"
+    ],
+    "category": "Home & Cleaning",
     "state": "sold",
     "purchaser": "id"
   },
@@ -433,7 +455,19 @@
     "originalPrice": 89.99,
     "price": 30,
     "details": ["Immediate pick up possible"],
+    "category": "Wellness & Fitness",
     "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Jenga Classic - Hasbro",
+    "url": "https://www.toysrus.es/Jenga-(A2120EU4)/p/K1018483",
+    "imageUrl": "/img/jenga.jpeg",
+    "originalPrice": 18.99,
+    "price": 9,
+    "details": ["Genuine hardwood blocks", "Original box included"],
+    "category": "Games & Leisure",
+    "state": "available",
     "purchaser": "id"
   }
 ]
