@@ -1,5 +1,75 @@
 [
   {
+    "name": "IKEA Dinnerware - Cups (Set of 6)",
+    "url": "https://www.ikea.com/es/es/p/dinnerware-cups/",
+    "imageUrl": "/img/ikea_cups_set_6.jpeg",
+    "originalPrice": 24,
+    "price": 12,
+    "details": [
+      "6 cups - IKEA dinnerware",
+      "White porcelain with ribbed pattern",
+      "Microwave and dishwasher safe"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA Dinnerware - Bowls (Set of 7)",
+    "url": "https://www.ikea.com/es/es/p/dinnerware-bowls/",
+    "imageUrl": "/img/ikea_bowls_set_7.jpeg",
+    "originalPrice": 28,
+    "price": 14,
+    "details": [
+      "7 bowls - IKEA dinnerware",
+      "White porcelain with ribbed pattern",
+      "Microwave and dishwasher safe"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA Dinnerware - Deep Plates (Set of 6)",
+    "url": "https://www.ikea.com/es/es/p/dinnerware-deep-plates/",
+    "imageUrl": "/img/ikea_deep_plates_set_6.jpeg",
+    "originalPrice": 32,
+    "price": 16,
+    "details": [
+      "6 deep plates - IKEA dinnerware",
+      "White porcelain with ribbed pattern",
+      "Microwave and dishwasher safe"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA Dinnerware - Small Plates (Set of 5)",
+    "url": "https://www.ikea.com/es/es/p/dinnerware-small-plates/",
+    "imageUrl": "/img/ikea_small_plates_set_5.jpeg",
+    "originalPrice": 20,
+    "price": 10,
+    "details": [
+      "5 small plates - IKEA dinnerware",
+      "White porcelain with ribbed pattern",
+      "Microwave and dishwasher safe"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA Dinnerware - Large Plates (Set of 6)",
+    "url": "https://www.ikea.com/es/es/p/dinnerware-large-plates/",
+    "imageUrl": "/img/ikea_large_plates_set_6.jpeg",
+    "originalPrice": 36,
+    "price": 18,
+    "details": [
+      "6 large plates - IKEA dinnerware",
+      "White porcelain with ribbed pattern",
+      "Microwave and dishwasher safe"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Samsung Q64D 55\" - QLED 4K TV",
     "url": "https://www.idealo.es/precios/204326715/samsung-tq55q64dauxxc.html",
     "imageUrl": "/img/samsung_q64d_qled_55.jpeg",
