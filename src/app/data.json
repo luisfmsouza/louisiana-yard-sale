@@ -14,6 +14,20 @@
     "purchaser": "id"
   },
   {
+    "name": "IKEA 365+ - Square Glass Food Containers with Lids",
+    "url": "https://www.ikea.com/es/es/p/ikea-365-bote-con-tapa-cuadrado-vidrio-10623833/",
+    "imageUrl": "/img/ikea_365_glass_containers.jpeg",
+    "originalPrice": 18.98,
+    "price": 9,
+    "details": [
+      "Glass square containers with plastic lids",
+      "600 ml capacity - hermetic pressure-closure lid",
+      "Heat-resistant glass - microwave & freezer safe"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "IKEA FÄRGKLAR - 18-Piece Dinnerware Set",
     "url": "https://www.ikea.com/es/en/p/fargklar-18-piece-service-matt-light-grey-70564699/",
     "imageUrl": "/img/ikea_fargklar_dinnerware_set.jpeg",
@@ -23,6 +37,20 @@
       "Matt light grey - 6 deep plates, 6 plates, 6 side plates",
       "Porcelain with subtle ribbed pattern",
       "Microwave and dishwasher safe"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA 365+ - 6-Piece Stainless Steel Cookware Set + Pasta Pan",
+    "url": "https://www.ikea.com/es/es/p/ikea-365-bateria-cocina-6-piezas-acero-inoxidable-80484329/",
+    "imageUrl": "/img/ikea_annons_cookware_pots.jpeg",
+    "originalPrice": 44.99,
+    "price": 22,
+    "details": [
+      "6-piece stainless steel cookware set with glass lids",
+      "5L pot + 3L pot + 2L saucepan with lids",
+      "Plus additional matching pasta preparation pan"
     ],
     "state": "available",
     "purchaser": "id"
