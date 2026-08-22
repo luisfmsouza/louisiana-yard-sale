@@ -350,6 +350,36 @@
     "purchaser": "id"
   },
   {
+    "name": "Ikea ASPEKT - Knife Sharpener",
+    "url": "https://www.ikea.com/es/es/p/aspekt-afilador-negro-57145296/",
+    "imageUrl": "/img/ikea_aspekt_knife_sharpener.jpeg",
+    "originalPrice": 7.99,
+    "price": 4,
+    "details": ["Manual knife sharpener", "Black", "Compact design"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea ANDLIG - 3-Piece Kitchen Knife Set",
+    "url": "https://www.ikea.com/es/en/p/andlig-3-piece-knife-set-light-grey-white-70257624/",
+    "imageUrl": "/img/ikea_baeby_knife_set.jpeg",
+    "originalPrice": 39.99,
+    "price": 19,
+    "details": ["3 pieces - Chef's knife, utility knife, paring knife", "Light grey and white handles", "Extra 2 other knifes"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea MARTORP - Cutlery Set (30 pieces)",
+    "url": "https://www.ikea.com/es/en/p/martorp-30-piece-cutlery-set-stainless-steel-30167507/",
+    "imageUrl": "/img/ikea_silverware_set.jpeg",
+    "originalPrice": 39,
+    "price": 19,
+    "details": ["30 pieces - forks, spoons, knives", "Stainless steel"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Freidora de aire – Philips Airfryer NA221/00",
     "url": "https://www.mediamarkt.es/es/product/_freidora-de-aire-philips-na22100-150000-w-negro-plata-142487565.html",
     "imageUrl": "/img/philips_airfryer_na221.jpeg",
