@@ -423,6 +423,22 @@
     "purchaser": "id"
   },
   {
+    "name": "Google Chromecast HD",
+    "url": "https://amzn.eu/d/08Se1Seb",
+    "imageUrl": "/img/google_chromecast_hd.jpeg",
+    "originalPrice": 39.99,
+    "price": 50,
+    "details": [
+      "Streaming HD content - Chromecast 4K alternative",
+      "Cast from your phone, tablet or laptop",
+      "Built-in Google TV interface",
+      "Original box included"
+    ],
+    "category": "Electronics & Smart Home",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Kärcher WV 1 Plus - Window Vacuum",
     "url": "https://www.amazon.es/dp/B0CQTG8F4H?th=1",
     "imageUrl": "/img/karcher_wv_1_plus.jpeg",
