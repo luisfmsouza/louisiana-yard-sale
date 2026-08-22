@@ -14,6 +14,62 @@
     "purchaser": "id"
   },
   {
+    "name": "IKEA STORSINT - Clear Glass (Set of 6)",
+    "url": "https://www.ikea.com/es/en/p/storsint-glass-clear-glass-40396018/",
+    "imageUrl": "/img/ikea_storsint_glasses_set_6.jpeg",
+    "originalPrice": 8,
+    "price": 4,
+    "details": [
+      "6 clear glasses - STORSINT",
+      "40 cl each",
+      "Dishwasher safe"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA 365+ - Square Glass Food Containers with Lids",
+    "url": "https://www.ikea.com/es/es/p/ikea-365-bote-con-tapa-cuadrado-vidrio-10623833/",
+    "imageUrl": "/img/ikea_365_glass_containers.jpeg",
+    "originalPrice": 18.98,
+    "price": 9,
+    "details": [
+      "Glass square containers with plastic lids",
+      "600 ml capacity - hermetic pressure-closure lid",
+      "Heat-resistant glass - microwave & freezer safe"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA FÄRGKLAR - 18-Piece Dinnerware Set",
+    "url": "https://www.ikea.com/es/en/p/fargklar-18-piece-service-matt-light-grey-70564699/",
+    "imageUrl": "/img/ikea_fargklar_dinnerware_set.jpeg",
+    "originalPrice": 34.99,
+    "price": 17,
+    "details": [
+      "Matt light grey - 6 deep plates, 6 plates, 6 side plates",
+      "Porcelain with subtle ribbed pattern",
+      "Microwave and dishwasher safe"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA 365+ - 6-Piece Stainless Steel Cookware Set + Pasta Pan",
+    "url": "https://www.ikea.com/es/es/p/ikea-365-bateria-cocina-6-piezas-acero-inoxidable-80484329/",
+    "imageUrl": "/img/ikea_annons_cookware_pots.jpeg",
+    "originalPrice": 44.99,
+    "price": 22,
+    "details": [
+      "6-piece stainless steel cookware set with glass lids",
+      "5L pot + 3L pot + 2L saucepan with lids",
+      "Plus additional matching pasta preparation pan"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Samsung Q64D 55\" - QLED 4K TV",
     "url": "https://www.idealo.es/precios/204326715/samsung-tq55q64dauxxc.html",
     "imageUrl": "/img/samsung_q64d_qled_55.jpeg",
@@ -290,6 +346,63 @@
     "originalPrice": 18.99,
     "price": 9,
     "details": ["Genuine hardwood blocks", "Original box included"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Freidora de aire – Philips Airfryer NA221/00",
+    "url": "https://www.mediamarkt.es/es/product/_freidora-de-aire-philips-na22100-150000-w-negro-plata-142487565.html",
+    "imageUrl": "/img/philips_airfryer_na221.jpeg",
+    "originalPrice": 80,
+    "price": 40,
+    "details": [
+      "4.2 L capacity - 1500W",
+      "Exclusive RapidAir technology",
+      "Black and silver finish",
+      "Window for monitoring cooking"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Joseph Joseph Multi-Grip - Box Grater",
+    "url": "https://store.inoutcooking.com/es/ralladores/rallador-4-caras-amarillo-multi-grip-joseph-joseph-16970.html",
+    "imageUrl": "/img/joseph_joseph_ralador_grater.jpeg",
+    "originalPrice": 28.49,
+    "price": 14,
+    "details": [
+      "Stainless steel - 4 grating/slicing surfaces",
+      "Yellow precision food-grip handle",
+      "Transparent measuring base with storage"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA UPPFYLLD + VARDAGEN - Citrus Juicer and Glass Jar",
+    "url": "https://www.ikea.com/es/es/p/vardagen-jarra-graduada-vidrio-80323303/",
+    "imageUrl": "/img/ikea_orange_juice_maker.jpeg",
+    "originalPrice": 6.98,
+    "price": 4,
+    "details": [
+      "Bright yellow/green - 15 cm",
+      "Polypropylene - dishwasher safe",
+      "0.5 L glass jar"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Zyliss Classic - Rotary Cheese Grater",
+    "url": "https://www.amazon.es/Zyliss-Classic-Rallador-de-queso/dp/B00LP8GP46",
+    "imageUrl": "/img/zyliss_cheese_mill.jpeg",
+    "originalPrice": 24.95,
+    "price": 10,
+    "details": [
+      "White/grey - hand-crank rotary drum",
+      "Grates hard cheese, chocolate, nuts & veg",
+      "Dishwasher safe - folds for storage"
+    ],
     "state": "available",
     "purchaser": "id"
   }
