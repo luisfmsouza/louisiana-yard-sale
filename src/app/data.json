@@ -294,15 +294,15 @@
     "purchaser": "id"
   },
   {
-    "name": "IKEA UPPFYLLD - Citrus Juicer",
-    "url": "https://www.ikea.com/es/es/p/uppfylld-exprimidor-citricos-amarillo-vivo-verde-vivo-90528691/",
+    "name": "IKEA UPPFYLLD + VARDAGEN - Citrus Juicer and Glass Jar",
+    "url": "https://www.ikea.com/es/es/p/vardagen-jarra-graduada-vidrio-80323303/",
     "imageUrl": "/img/ikea_orange_juice_maker.jpeg",
-    "originalPrice": 1.99,
-    "price": 1,
+    "originalPrice": 6.98,
+    "price": 4,
     "details": [
       "Bright yellow/green - 15 cm",
       "Polypropylene - dishwasher safe",
-      "Fits directly on jugs and glasses"
+      "0.5 L glass jar"
     ],
     "state": "available",
     "purchaser": "id"
@@ -312,7 +312,7 @@
     "url": "https://www.amazon.es/Zyliss-Classic-Rallador-de-queso/dp/B00LP8GP46",
     "imageUrl": "/img/zyliss_cheese_mill.jpeg",
     "originalPrice": 24.95,
-    "price": 12,
+    "price": 10,
     "details": [
       "White/grey - hand-crank rotary drum",
       "Grates hard cheese, chocolate, nuts & veg",
