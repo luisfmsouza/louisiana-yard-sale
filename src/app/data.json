@@ -281,11 +281,11 @@
   },
   {
     "name": "Ikea ASPEKT - Knife Sharpener",
-    "url": "https://www.ikea.com/es/es/p/aspekt-afilador-30370952/",
+    "url": "https://www.ikea.com/es/es/p/aspekt-afilador-negro-57145296/",
     "imageUrl": "/img/ikea_aspekt_knife_sharpener.jpeg",
     "originalPrice": 8,
     "price": 4,
-    "details": ["Manual knife sharpener", "Compact design"],
+    "details": ["Manual knife sharpener", "Black", "Compact design"],
     "state": "available",
     "purchaser": "id"
   },
