@@ -336,6 +336,21 @@
     "purchaser": "id"
   },
   {
+    "name": "Freidora de aire – Philips Airfryer NA221/00",
+    "url": "https://www.mediamarkt.es/es/product/_freidora-de-aire-philips-na22100-150000-w-negro-plata-142487565.html",
+    "imageUrl": "/img/philips_airfryer_na221.jpeg",
+    "originalPrice": 80,
+    "price": 40,
+    "details": [
+      "4.2 L capacity - 1500W",
+      "Exclusive RapidAir technology",
+      "Black and silver finish",
+      "Window for monitoring cooking"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Joseph Joseph Multi-Grip - Box Grater",
     "url": "https://store.inoutcooking.com/es/ralladores/rallador-4-caras-amarillo-multi-grip-joseph-joseph-16970.html",
     "imageUrl": "/img/joseph_joseph_ralador_grater.jpeg",
