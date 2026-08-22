@@ -1,5 +1,33 @@
 [
   {
+    "name": "IKEA STORSINT - Clear Glass (Set of 6)",
+    "url": "https://www.ikea.com/es/en/p/storsint-glass-clear-glass-40396018/",
+    "imageUrl": "/img/ikea_storsint_glasses_set_6.jpeg",
+    "originalPrice": 8,
+    "price": 4,
+    "details": [
+      "6 clear glasses - STORSINT",
+      "40 cl each",
+      "Dishwasher safe"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA FÄRGKLAR - 18-Piece Dinnerware Set",
+    "url": "https://www.ikea.com/es/en/p/fargklar-18-piece-service-matt-light-grey-70564699/",
+    "imageUrl": "/img/ikea_fargklar_dinnerware_set.jpeg",
+    "originalPrice": 34.99,
+    "price": 17,
+    "details": [
+      "Matt light grey - 6 deep plates, 6 plates, 6 side plates",
+      "Porcelain with subtle ribbed pattern",
+      "Microwave and dishwasher safe"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Samsung Q64D 55\" - QLED 4K TV",
     "url": "https://www.idealo.es/precios/204326715/samsung-tq55q64dauxxc.html",
     "imageUrl": "/img/samsung_q64d_qled_55.jpeg",
