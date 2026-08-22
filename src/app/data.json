@@ -290,12 +290,12 @@
     "purchaser": "id"
   },
   {
-    "name": "Ikea BÄBY - Kitchen Knife Set (5 pieces)",
-    "url": "https://www.ikea.com/es/es/p/baeby-juego-cuchillos-60467310/",
+    "name": "Ikea ANDLIG - 3-Piece Kitchen Knife Set",
+    "url": "https://www.ikea.com/es/en/p/andlig-3-piece-knife-set-light-grey-white-70257624/",
     "imageUrl": "/img/ikea_baeby_knife_set.jpeg",
     "originalPrice": 39.99,
     "price": 19,
-    "details": ["5 pieces - 2 different blade types", "Chef's knife and utility knives", "Black handles"],
+    "details": ["3 pieces - Chef's knife, utility knife, paring knife", "Light grey and white handles", "Stainless steel blades"],
     "state": "available",
     "purchaser": "id"
   },
