@@ -303,8 +303,8 @@
     "name": "Ikea MARTORP - Cutlery Set (30 pieces)",
     "url": "https://www.ikea.com/es/en/p/martorp-30-piece-cutlery-set-stainless-steel-30167507/",
     "imageUrl": "/img/ikea_silverware_set.jpeg",
-    "originalPrice": 59.99,
-    "price": 29,
+    "originalPrice": 39,
+    "price": 19,
     "details": ["30 pieces - forks, spoons, knives", "Stainless steel", "Organized in drawer tray"],
     "state": "available",
     "purchaser": "id"
