@@ -278,5 +278,20 @@
     "details": ["Genuine hardwood blocks", "Original box included"],
     "state": "available",
     "purchaser": "id"
+  },
+  {
+    "name": "Freidora de aire – Philips Airfryer NA221/00",
+    "url": "https://www.amazon.es/Philips-Series-1500W-Freidora-Aire/dp/B09FLS4CQB",
+    "imageUrl": "/img/philips_airfryer_na221.jpeg",
+    "originalPrice": 149.99,
+    "price": 75,
+    "details": [
+      "4.2 L capacity - 1500W",
+      "Exclusive RapidAir technology",
+      "Black and silver finish",
+      "Window for monitoring cooking"
+    ],
+    "state": "available",
+    "purchaser": "id"
   }
 ]
