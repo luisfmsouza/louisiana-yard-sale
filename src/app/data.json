@@ -1,5 +1,19 @@
 [
   {
+    "name": "Ikea IKEA 365+ - Dinner Bowls Set of 6",
+    "url": "https://www.ikea.com/es/es/p/ikea-365-cuenco-laterales-redondeados-blanco-20278351/",
+    "imageUrl": "/img/ikea_365_bowls_set_6.jpeg",
+    "originalPrice": 24,
+    "price": 12,
+    "details": [
+      "White porcelain - rounded sides",
+      "16 cm diameter x 6 bowls",
+      "Impact resistant & durable"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Samsung Q64D 55\" - QLED 4K TV",
     "url": "https://www.idealo.es/precios/204326715/samsung-tq55q64dauxxc.html",
     "imageUrl": "/img/samsung_q64d_qled_55.jpeg",
