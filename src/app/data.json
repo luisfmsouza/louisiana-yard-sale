@@ -1,5 +1,20 @@
 [
   {
+    "name": "IKEA BUMERANG Hangers - Natural Wood (Set of 40)",
+    "url": "https://www.ikea.com/es/en/p/bumerang-hanger-natural-30238543/",
+    "imageUrl": "/img/ikea_bumerang_hangers_set_40.jpg",
+    "originalPrice": 24.95,
+    "price": 12,
+    "details": [
+      "Natural solid wood construction",
+      "Set of 40 pieces (5 packs of 8)",
+      "Strong enough for heavier clothes"
+    ],
+    "category": "Home & Cleaning",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Ikea TROTTEN - Desk",
     "url": "https://www.ikea.com/es/es/p/trotten-escritorio-blanco-s29424942/",
     "imageUrl": "/img/trotten_desk.jpeg",
