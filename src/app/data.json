@@ -153,7 +153,7 @@
       "Plus additional matching pasta preparation pan"
     ],
     "category": "Kitchen & Dining",
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
@@ -498,7 +498,7 @@
     "price": 9,
     "details": ["Genuine hardwood blocks", "Original box included"],
     "category": "Games & Leisure",
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   }
 ]
