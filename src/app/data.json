@@ -278,5 +278,35 @@
     "details": ["Genuine hardwood blocks", "Original box included"],
     "state": "available",
     "purchaser": "id"
+  },
+  {
+    "name": "Ikea ASPEKT - Knife Sharpener",
+    "url": "https://www.ikea.com/es/es/p/aspekt-afilador-30370952/",
+    "imageUrl": "/img/ikea_aspekt_knife_sharpener.jpeg",
+    "originalPrice": 14.99,
+    "price": 7,
+    "details": ["Manual knife sharpener", "Compact design"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea BÄBY - Kitchen Knife Set (5 pieces)",
+    "url": "https://www.ikea.com/es/es/p/baeby-juego-cuchillos-60467310/",
+    "imageUrl": "/img/ikea_baeby_knife_set.jpeg",
+    "originalPrice": 39.99,
+    "price": 19,
+    "details": ["5 pieces - 2 different blade types", "Chef's knife and utility knives", "Black handles"],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea MARTORP - Cutlery Set (30 pieces)",
+    "url": "https://www.ikea.com/es/en/p/martorp-30-piece-cutlery-set-stainless-steel-30167507/",
+    "imageUrl": "/img/ikea_silverware_set.jpeg",
+    "originalPrice": 59.99,
+    "price": 29,
+    "details": ["30 pieces - forks, spoons, knives", "Stainless steel", "Organized in drawer tray"],
+    "state": "available",
+    "purchaser": "id"
   }
 ]
