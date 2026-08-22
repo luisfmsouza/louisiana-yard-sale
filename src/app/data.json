@@ -305,7 +305,7 @@
     "imageUrl": "/img/ikea_silverware_set.jpeg",
     "originalPrice": 39,
     "price": 19,
-    "details": ["30 pieces - forks, spoons, knives", "Stainless steel", "Organized in drawer tray"],
+    "details": ["30 pieces - forks, spoons, knives", "Stainless steel"],
     "state": "available",
     "purchaser": "id"
   }
