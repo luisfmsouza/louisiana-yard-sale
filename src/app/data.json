@@ -306,5 +306,47 @@
     "details": ["Genuine hardwood blocks", "Original box included"],
     "state": "available",
     "purchaser": "id"
+  },
+  {
+    "name": "Joseph Joseph Multi-Grip - Box Grater",
+    "url": "https://store.inoutcooking.com/es/ralladores/rallador-4-caras-amarillo-multi-grip-joseph-joseph-16970.html",
+    "imageUrl": "/img/joseph_joseph_ralador_grater.jpeg",
+    "originalPrice": 28.49,
+    "price": 14,
+    "details": [
+      "Stainless steel - 4 grating/slicing surfaces",
+      "Yellow precision food-grip handle",
+      "Transparent measuring base with storage"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA UPPFYLLD + VARDAGEN - Citrus Juicer and Glass Jar",
+    "url": "https://www.ikea.com/es/es/p/vardagen-jarra-graduada-vidrio-80323303/",
+    "imageUrl": "/img/ikea_orange_juice_maker.jpeg",
+    "originalPrice": 6.98,
+    "price": 4,
+    "details": [
+      "Bright yellow/green - 15 cm",
+      "Polypropylene - dishwasher safe",
+      "0.5 L glass jar"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Zyliss Classic - Rotary Cheese Grater",
+    "url": "https://www.amazon.es/Zyliss-Classic-Rallador-de-queso/dp/B00LP8GP46",
+    "imageUrl": "/img/zyliss_cheese_mill.jpeg",
+    "originalPrice": 24.95,
+    "price": 10,
+    "details": [
+      "White/grey - hand-crank rotary drum",
+      "Grates hard cheese, chocolate, nuts & veg",
+      "Dishwasher safe - folds for storage"
+    ],
+    "state": "available",
+    "purchaser": "id"
   }
 ]
