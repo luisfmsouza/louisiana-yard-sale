@@ -84,16 +84,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Ikea TROTTEN - Standing desk",
-    "url": "https://www.ikea.com/es/es/p/trotten-escritorio-elevable-blanco-s99429578/",
-    "imageUrl": "/img/trotten_standing_desk.jpeg",
-    "originalPrice": 189,
-    "price": 94,
-    "details": ["120 x 70 cm", "Sit/stand - manual crank", "White"],
-    "state": "sold",
-    "purchaser": "id"
-  },
-  {
     "name": "Ikea TROTTEN - Desk",
     "url": "https://www.ikea.com/es/es/p/trotten-escritorio-blanco-s29424942/",
     "imageUrl": "/img/trotten_desk.jpeg",
@@ -118,20 +108,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Ticova M8 - Ergonomic Office Chair",
-    "url": "https://www.amazon.es/dp/B09GNPLXMZ",
-    "imageUrl": "/img/ticova_ergonomic_office_chair.jpeg",
-    "originalPrice": 139.99,
-    "price": 69,
-    "details": [
-      "Black mesh - adjustable lumbar & headrest",
-      "3D armrests - tilt up to 130°",
-      "Chrome base - up to 150 kg"
-    ],
-    "state": "sold",
-    "purchaser": "id"
-  },
-  {
     "name": "Beliani TRAPANI - Kitchen Cart",
     "url": "https://www.beliani.es/carrito-de-cocina-negro-madera-clara-trapani.html",
     "imageUrl": "/img/beliani_trapani_kitchen_cart.jpeg",
@@ -146,20 +122,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Joseph Joseph Totem Compact 40L - Waste & Recycling Bin",
-    "url": "https://eu.josephjoseph.com/products/totem-compact-40l-waste-recycling-bins-grey",
-    "imageUrl": "/img/joseph_joseph_totem_compact_40l.jpeg",
-    "originalPrice": 199.99,
-    "price": 99,
-    "details": [
-      "Grey - 2×20L + 3L food caddy",
-      "Integrated odour control",
-      "H76 × W30 × D36.6 cm"
-    ],
-    "state": "sold",
-    "purchaser": "id"
-  },
-  {
     "name": "Joseph Joseph Duo - Tiered Organiser with Drawer",
     "url": "https://www.leroymerlin.es/productos/organizador-escalonado-con-cajon-duo-joseph-joseph-de-17x11cm-90379464.html",
     "imageUrl": "/img/joseph_joseph_duo_tiered_organiser.jpeg",
@@ -171,20 +133,6 @@
       "Compact cupboard / pantry organiser"
     ],
     "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Instant Pot Duo - Pressure Cooker",
-    "url": "https://www.amazon.es/Instant-Programable-Programas-Yogurtera-Inoxidable/dp/B08Z4HCGDH",
-    "imageUrl": "/img/instant_pot_duo.jpeg",
-    "originalPrice": 69.99,
-    "price": 34,
-    "details": [
-      "7-in-1 multicooker",
-      "Pressure cooker, slow cooker, rice cooker, steamer, yogurt maker",
-      "Original box included"
-    ],
-    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -230,72 +178,6 @@
     "purchaser": "id"
   },
   {
-    "name": "MasterClass Roasting Tin",
-    "url": "https://www.elcorteingles.es/hogar/A51219956-5057982105297-pr-bandeja-para-asar-antiadherente-masterclass-gris-grande/",
-    "imageUrl": "/img/roasting_tin_masterclass.jpeg",
-    "originalPrice": 21.95,
-    "price": 10,
-    "details": [
-      "Non-stick carbon steel",
-      "Bought at El Corte Inglés"
-    ],
-    "state": "sold",
-    "purchaser": "id"
-  },
-  {
-    "name": "MasterClass Bundt Cake Tin",
-    "url": "https://www.elcorteingles.es/hogar/A51219960-5057982105334-pr-molde-savarin-rizado-masterclass-gris/",
-    "imageUrl": "/img/bundt_tin_masterclass.jpeg",
-    "originalPrice": 19.95,
-    "price": 9,
-    "details": [
-      "Non-stick fluted ring mould",
-      "Bought at El Corte Inglés"
-    ],
-    "state": "sold",
-    "purchaser": "id"
-  },
-  {
-    "name": "Calais Wine Glasses 65cl - Set of 4",
-    "url": "https://www.elcorteingles.es/hogar/A17145247-2401980129701-pr-juego-de-4-copas-de-vino-calais-el-corte-ingles-65-cl/",
-    "imageUrl": "/img/wine_glasses_65cl.jpeg",
-    "originalPrice": 21.95,
-    "price": 10,
-    "details": [
-      "El Corte Inglés - Calais",
-      "4 glasses - 65 cl",
-      "Crystalline glass",
-      "Original box included"
-    ],
-    "state": "reserved",
-    "purchaser": "id"
-  },
-  {
-    "name": "Calais Wine Glasses 52cl - Set of 4",
-    "url": "https://www.elcorteingles.es/hogar/A17145247-2401980129718-pr-juego-de-4-copas-de-vino-calais-el-corte-ingles-52-cl/",
-    "imageUrl": "/img/wine_glasses_52cl.jpeg",
-    "originalPrice": 21.95,
-    "price": 10,
-    "details": [
-      "El Corte Inglés - Calais",
-      "4 glasses - 52 cl",
-      "Crystalline glass",
-      "Original box included"
-    ],
-    "state": "reserved",
-    "purchaser": "id"
-  },
-  {
-    "name": "RoboVac G10 Hybrid - Eufy",
-    "url": "https://www.amazon.es/Fregasuelos-Navegaci%C3%B3n-Inteligente-silencioso-autom%C3%A1ticamente/dp/B07SM87DCV?th=1",
-    "imageUrl": "/img/vaccum_robot.jpeg",
-    "originalPrice": 112,
-    "price": 30,
-    "details": ["Original box included"],
-    "state": "sold",
-    "purchaser": "id"
-  },
-  {
     "name": "Kärcher WV 1 Plus - Window Vacuum",
     "url": "https://www.amazon.es/dp/B0CQTG8F4H?th=1",
     "imageUrl": "/img/karcher_wv_1_plus.jpeg",
@@ -310,16 +192,6 @@
     "purchaser": "id"
   },
   {
-    "name": "Echo Show 5 (3rd Gen) - Alexa",
-    "url": "https://www.amazon.es/echo-show-5-3a-generacion/dp/B09B2TH45G",
-    "imageUrl": "/img/echo_show_5.jpeg",
-    "originalPrice": 79.99,
-    "price": 35,
-    "details": ["White", "Original box included"],
-    "state": "sold",
-    "purchaser": "id"
-  },
-  {
     "name": "LED Bulbs E27 - Set of 3",
     "url": "https://www.lamparas.es/bombillas/9734-pack-3-bombillas-led-e27-estandar-10-w-luz-neutra-a2bc-8436564570635.html",
     "imageUrl": "/img/led_bulbs.jpeg",
@@ -327,16 +199,6 @@
     "price": 4,
     "details": ["3 bulbs", "E27 socket - 10W"],
     "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Massage Gun - Tunturi",
-    "url": "https://www.decathlon.es/es/p/mp/pistola-de-masaje-tunturi-aparato-de-masaje-incluye-estuche/f18895a8-a74d-4f32-8a20-1cee087bafc2/c1c9?LGWCODE=1",
-    "imageUrl": "/img/massage_gun.jpeg",
-    "originalPrice": 89.99,
-    "price": 30,
-    "details": ["Immediate pick up possible"],
-    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -434,6 +296,144 @@
       "Dishwasher safe - folds for storage"
     ],
     "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Calais Wine Glasses 65cl - Set of 4",
+    "url": "https://www.elcorteingles.es/hogar/A17145247-2401980129701-pr-juego-de-4-copas-de-vino-calais-el-corte-ingles-65-cl/",
+    "imageUrl": "/img/wine_glasses_65cl.jpeg",
+    "originalPrice": 21.95,
+    "price": 10,
+    "details": [
+      "El Corte Inglés - Calais",
+      "4 glasses - 65 cl",
+      "Crystalline glass",
+      "Original box included"
+    ],
+    "state": "reserved",
+    "purchaser": "id"
+  },
+  {
+    "name": "Calais Wine Glasses 52cl - Set of 4",
+    "url": "https://www.elcorteingles.es/hogar/A17145247-2401980129718-pr-juego-de-4-copas-de-vino-calais-el-corte-ingles-52-cl/",
+    "imageUrl": "/img/wine_glasses_52cl.jpeg",
+    "originalPrice": 21.95,
+    "price": 10,
+    "details": [
+      "El Corte Inglés - Calais",
+      "4 glasses - 52 cl",
+      "Crystalline glass",
+      "Original box included"
+    ],
+    "state": "reserved",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea TROTTEN - Standing desk",
+    "url": "https://www.ikea.com/es/es/p/trotten-escritorio-elevable-blanco-s99429578/",
+    "imageUrl": "/img/trotten_standing_desk.jpeg",
+    "originalPrice": 189,
+    "price": 94,
+    "details": ["120 x 70 cm", "Sit/stand - manual crank", "White"],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ticova M8 - Ergonomic Office Chair",
+    "url": "https://www.amazon.es/dp/B09GNPLXMZ",
+    "imageUrl": "/img/ticova_ergonomic_office_chair.jpeg",
+    "originalPrice": 139.99,
+    "price": 69,
+    "details": [
+      "Black mesh - adjustable lumbar & headrest",
+      "3D armrests - tilt up to 130°",
+      "Chrome base - up to 150 kg"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Joseph Joseph Totem Compact 40L - Waste & Recycling Bin",
+    "url": "https://eu.josephjoseph.com/products/totem-compact-40l-waste-recycling-bins-grey",
+    "imageUrl": "/img/joseph_joseph_totem_compact_40l.jpeg",
+    "originalPrice": 199.99,
+    "price": 99,
+    "details": [
+      "Grey - 2×20L + 3L food caddy",
+      "Integrated odour control",
+      "H76 × W30 × D36.6 cm"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Instant Pot Duo - Pressure Cooker",
+    "url": "https://www.amazon.es/Instant-Programable-Programas-Yogurtera-Inoxidable/dp/B08Z4HCGDH",
+    "imageUrl": "/img/instant_pot_duo.jpeg",
+    "originalPrice": 69.99,
+    "price": 34,
+    "details": [
+      "7-in-1 multicooker",
+      "Pressure cooker, slow cooker, rice cooker, steamer, yogurt maker",
+      "Original box included"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "MasterClass Roasting Tin",
+    "url": "https://www.elcorteingles.es/hogar/A51219956-5057982105297-pr-bandeja-para-asar-antiadherente-masterclass-gris-grande/",
+    "imageUrl": "/img/roasting_tin_masterclass.jpeg",
+    "originalPrice": 21.95,
+    "price": 10,
+    "details": [
+      "Non-stick carbon steel",
+      "Bought at El Corte Inglés"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "MasterClass Bundt Cake Tin",
+    "url": "https://www.elcorteingles.es/hogar/A51219960-5057982105334-pr-molde-savarin-rizado-masterclass-gris/",
+    "imageUrl": "/img/bundt_tin_masterclass.jpeg",
+    "originalPrice": 19.95,
+    "price": 9,
+    "details": [
+      "Non-stick fluted ring mould",
+      "Bought at El Corte Inglés"
+    ],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "RoboVac G10 Hybrid - Eufy",
+    "url": "https://www.amazon.es/Fregasuelos-Navegaci%C3%B3n-Inteligente-silencioso-autom%C3%A1ticamente/dp/B07SM87DCV?th=1",
+    "imageUrl": "/img/vaccum_robot.jpeg",
+    "originalPrice": 112,
+    "price": 30,
+    "details": ["Original box included"],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Echo Show 5 (3rd Gen) - Alexa",
+    "url": "https://www.amazon.es/echo-show-5-3a-generacion/dp/B09B2TH45G",
+    "imageUrl": "/img/echo_show_5.jpeg",
+    "originalPrice": 79.99,
+    "price": 35,
+    "details": ["White", "Original box included"],
+    "state": "sold",
+    "purchaser": "id"
+  },
+  {
+    "name": "Massage Gun - Tunturi",
+    "url": "https://www.decathlon.es/es/p/mp/pistola-de-masaje-tunturi-aparato-de-masaje-incluye-estuche/f18895a8-a74d-4f32-8a20-1cee087bafc2/c1c9?LGWCODE=1",
+    "imageUrl": "/img/massage_gun.jpeg",
+    "originalPrice": 89.99,
+    "price": 30,
+    "details": ["Immediate pick up possible"],
+    "state": "sold",
     "purchaser": "id"
   }
 ]
