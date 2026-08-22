@@ -14,15 +14,15 @@
     "purchaser": "id"
   },
   {
-    "name": "IKEA 365+ - Glass Food Containers Set (6 pieces)",
-    "url": "https://www.ikea.com/es/es/p/ikea-365-bote-con-tapa-rectangular-vidrio-plastico-s89269071/",
+    "name": "IKEA 365+ - Square Glass Food Containers with Lids",
+    "url": "https://www.ikea.com/es/es/p/ikea-365-bote-con-tapa-cuadrado-vidrio-10623833/",
     "imageUrl": "/img/ikea_365_glass_containers.jpeg",
-    "originalPrice": 24,
-    "price": 12,
+    "originalPrice": 4,
+    "price": 2,
     "details": [
-      "Glass rectangular containers with plastic lids",
-      "Multiple sizes - ideal for food storage",
-      "Microwave & freezer safe - dishwasher safe"
+      "Glass square containers with plastic lids",
+      "600 ml capacity - hermetic pressure-closure lid",
+      "Heat-resistant glass - microwave & freezer safe"
     ],
     "state": "available",
     "purchaser": "id"
@@ -42,15 +42,15 @@
     "purchaser": "id"
   },
   {
-    "name": "IKEA ANNONS - 5-Piece Cookware Set",
-    "url": "https://www.ikea.com/es/es/p/annons-bateria-cocina-5-piezas-vidrio-acero-inoxidable-90207402/",
+    "name": "IKEA 365+ - 6-Piece Stainless Steel Cookware Set + Pasta Pan",
+    "url": "https://www.ikea.com/es/es/p/ikea-365-bateria-cocina-6-piezas-acero-inoxidable-80484329/",
     "imageUrl": "/img/ikea_annons_cookware_pots.jpeg",
-    "originalPrice": 16.99,
-    "price": 8,
+    "originalPrice": 79.99,
+    "price": 40,
     "details": [
-      "Stainless steel pots with glass lids",
-      "1 saucepan + 2 pots (0.9L, 1.7L, 2.8L)",
-      "Works on all cooktop types including induction"
+      "6-piece stainless steel cookware set with glass lids",
+      "5L pot + 3L pot + 2L saucepan with lids",
+      "Plus additional matching pasta preparation pan"
     ],
     "state": "available",
     "purchaser": "id"
