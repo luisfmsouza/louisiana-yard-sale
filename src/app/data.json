@@ -278,5 +278,47 @@
     "details": ["Genuine hardwood blocks", "Original box included"],
     "state": "available",
     "purchaser": "id"
+  },
+  {
+    "name": "Joseph Joseph Ralador - Stainless Steel Box Grater",
+    "url": "https://eu.josephjoseph.com/",
+    "imageUrl": "/img/joseph_joseph_ralador_grater.jpeg",
+    "originalPrice": 24.99,
+    "price": 12,
+    "details": [
+      "Stainless steel with white silicone handles",
+      "Multiple grating surfaces",
+      "Yellow vegetable peeler included"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA FÖRENLIG - Citrus Press / Orange Juicer",
+    "url": "https://www.ikea.com/es/es/p/forenlig-exprimidor/",
+    "imageUrl": "/img/ikea_orange_juice_maker.jpeg",
+    "originalPrice": 19.99,
+    "price": 9,
+    "details": [
+      "Yellow silicone design",
+      "Glass pitcher - 500 ml",
+      "Easy to use and clean"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Silicone Grater Bowl with Suction Cup",
+    "url": "https://www.amazon.es/",
+    "imageUrl": "/img/silicone_grater_bowl.jpeg",
+    "originalPrice": 14.99,
+    "price": 7,
+    "details": [
+      "White silicone with handles",
+      "Non-slip base",
+      "Perfect for zesting and grating"
+    ],
+    "state": "available",
+    "purchaser": "id"
   }
 ]
