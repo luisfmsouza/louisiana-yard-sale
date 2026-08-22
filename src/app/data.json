@@ -280,43 +280,43 @@
     "purchaser": "id"
   },
   {
-    "name": "Joseph Joseph Ralador - Stainless Steel Box Grater",
-    "url": "https://eu.josephjoseph.com/",
+    "name": "Joseph Joseph Multi-Grip - Box Grater",
+    "url": "https://store.inoutcooking.com/es/ralladores/rallador-4-caras-amarillo-multi-grip-joseph-joseph-16970.html",
     "imageUrl": "/img/joseph_joseph_ralador_grater.jpeg",
-    "originalPrice": 24.99,
+    "originalPrice": 28.49,
+    "price": 14,
+    "details": [
+      "Stainless steel - 4 grating/slicing surfaces",
+      "Yellow precision food-grip handle",
+      "Transparent measuring base with storage"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA UPPFYLLD - Citrus Juicer",
+    "url": "https://www.ikea.com/es/es/p/uppfylld-exprimidor-citricos-amarillo-vivo-verde-vivo-90528691/",
+    "imageUrl": "/img/ikea_orange_juice_maker.jpeg",
+    "originalPrice": 1.99,
+    "price": 1,
+    "details": [
+      "Bright yellow/green - 15 cm",
+      "Polypropylene - dishwasher safe",
+      "Fits directly on jugs and glasses"
+    ],
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Zyliss Classic - Rotary Cheese Grater",
+    "url": "https://www.amazon.es/Zyliss-Classic-Rallador-de-queso/dp/B00LP8GP46",
+    "imageUrl": "/img/zyliss_cheese_mill.jpeg",
+    "originalPrice": 24.95,
     "price": 12,
     "details": [
-      "Stainless steel with white silicone handles",
-      "Multiple grating surfaces",
-      "Yellow vegetable peeler included"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "IKEA FÖRENLIG - Citrus Press / Orange Juicer",
-    "url": "https://www.ikea.com/es/es/p/forenlig-exprimidor/",
-    "imageUrl": "/img/ikea_orange_juice_maker.jpeg",
-    "originalPrice": 19.99,
-    "price": 9,
-    "details": [
-      "Yellow silicone design",
-      "Glass pitcher - 500 ml",
-      "Easy to use and clean"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Silicone Grater Bowl with Suction Cup",
-    "url": "https://www.amazon.es/",
-    "imageUrl": "/img/silicone_grater_bowl.jpeg",
-    "originalPrice": 14.99,
-    "price": 7,
-    "details": [
-      "White silicone with handles",
-      "Non-slip base",
-      "Perfect for zesting and grating"
+      "White/grey - hand-crank rotary drum",
+      "Grates hard cheese, chocolate, nuts & veg",
+      "Dishwasher safe - folds for storage"
     ],
     "state": "available",
     "purchaser": "id"
