@@ -1,69 +1,27 @@
 [
   {
-    "name": "IKEA Dinnerware - Cups (Set of 6)",
-    "url": "https://www.ikea.com/es/es/p/dinnerware-cups/",
-    "imageUrl": "/img/ikea_cups_set_6.jpeg",
-    "originalPrice": 24,
-    "price": 12,
+    "name": "IKEA STORSINT - Clear Glass (Set of 6)",
+    "url": "https://www.ikea.com/es/en/p/storsint-glass-clear-glass-40396018/",
+    "imageUrl": "/img/ikea_storsint_glasses_set_6.jpeg",
+    "originalPrice": 12.99,
+    "price": 6,
     "details": [
-      "6 cups - IKEA dinnerware",
-      "White porcelain with ribbed pattern",
-      "Microwave and dishwasher safe"
+      "6 clear glasses - STORSINT",
+      "40 cl each",
+      "Dishwasher safe"
     ],
     "state": "available",
     "purchaser": "id"
   },
   {
-    "name": "IKEA Dinnerware - Bowls (Set of 7)",
-    "url": "https://www.ikea.com/es/es/p/dinnerware-bowls/",
-    "imageUrl": "/img/ikea_bowls_set_7.jpeg",
-    "originalPrice": 28,
-    "price": 14,
+    "name": "IKEA FÄRGKLAR - 18-Piece Dinnerware Set",
+    "url": "https://www.ikea.com/es/en/p/fargklar-18-piece-service-matt-light-grey-70564699/",
+    "imageUrl": "/img/ikea_fargklar_dinnerware_set.jpeg",
+    "originalPrice": 34.99,
+    "price": 17,
     "details": [
-      "7 bowls - IKEA dinnerware",
-      "White porcelain with ribbed pattern",
-      "Microwave and dishwasher safe"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "IKEA Dinnerware - Deep Plates (Set of 6)",
-    "url": "https://www.ikea.com/es/es/p/dinnerware-deep-plates/",
-    "imageUrl": "/img/ikea_deep_plates_set_6.jpeg",
-    "originalPrice": 32,
-    "price": 16,
-    "details": [
-      "6 deep plates - IKEA dinnerware",
-      "White porcelain with ribbed pattern",
-      "Microwave and dishwasher safe"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "IKEA Dinnerware - Small Plates (Set of 5)",
-    "url": "https://www.ikea.com/es/es/p/dinnerware-small-plates/",
-    "imageUrl": "/img/ikea_small_plates_set_5.jpeg",
-    "originalPrice": 20,
-    "price": 10,
-    "details": [
-      "5 small plates - IKEA dinnerware",
-      "White porcelain with ribbed pattern",
-      "Microwave and dishwasher safe"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "IKEA Dinnerware - Large Plates (Set of 6)",
-    "url": "https://www.ikea.com/es/es/p/dinnerware-large-plates/",
-    "imageUrl": "/img/ikea_large_plates_set_6.jpeg",
-    "originalPrice": 36,
-    "price": 18,
-    "details": [
-      "6 large plates - IKEA dinnerware",
-      "White porcelain with ribbed pattern",
+      "Matt light grey - 6 cups, 6 bowls, 6 plates",
+      "Porcelain with subtle ribbed pattern",
       "Microwave and dishwasher safe"
     ],
     "state": "available",
