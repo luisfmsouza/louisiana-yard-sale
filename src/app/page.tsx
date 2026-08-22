@@ -38,6 +38,7 @@ const CATEGORY_ORDER = [
 const groupByCategory = (products: Product[]) => {
   const groups = new Map<string, Product[]>();
   for (const product of products) {
+    if (product.state === ProduceState.sold) continue;
     const group = groups.get(product.category) ?? [];
     group.push(product);
     groups.set(product.category, group);
@@ -90,16 +91,27 @@ const ProductList = ({ products }: ProductListProps) => (
   </div>
 );
 
-const CategorySections = ({ products }: ProductListProps) => (
-  <>
-    {groupByCategory(products).map(({ category, products: categoryProducts }) => (
-      <section key={category}>
-        <h2 className={styles.categoryHeading}>{category}</h2>
-        <ProductList products={categoryProducts} />
-      </section>
-    ))}
-  </>
-);
+const CategorySections = ({ products }: ProductListProps) => {
+  const soldProducts = products.filter((p) => p.state === ProduceState.sold);
+
+  return (
+    <>
+      {groupByCategory(products).map(({ category, products: categoryProducts }) => (
+        <section key={category}>
+          <h2 className={styles.categoryHeading}>{category}</h2>
+          <ProductList products={categoryProducts} />
+        </section>
+      ))}
+
+      {soldProducts.length > 0 && (
+        <section>
+          <h2 className={styles.categoryHeading}>Sold</h2>
+          <ProductList products={soldProducts} />
+        </section>
+      )}
+    </>
+  );
+};
 
 export default function Home() {
   const typedProducts = products as Product[];
