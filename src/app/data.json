@@ -201,7 +201,7 @@
     "price": 19,
     "details": ["30 pieces - forks, spoons, knives", "Stainless steel"],
     "category": "Kitchen & Dining",
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
