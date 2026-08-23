@@ -216,7 +216,7 @@
       "Transparent measuring base with storage"
     ],
     "category": "Kitchen & Dining",
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
@@ -450,7 +450,7 @@
       "100 ml dirty-water tank - 0.5 kg"
     ],
     "category": "Home & Cleaning",
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
