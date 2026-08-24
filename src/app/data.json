@@ -311,9 +311,9 @@
   },
   {
     "name": "NutriBullet Original 600 - Starter Kit",
-    "url": "https://www.amazon.es/dp/B09MJ69SG3",
+    "url": "https://amzn.eu/d/0fZv0cf2",
     "imageUrl": "/img/nutribullet_original_600_starter_kit.jpeg",
-    "originalPrice": 54.9,
+    "originalPrice": 69.99,
     "price": 27,
     "details": [
       "600W - dark grey base",
@@ -321,7 +321,7 @@
       "Original box included"
     ],
     "category": "Small Appliances",
-    "state": "available",
+    "state": "reserved",
     "purchaser": "id"
   },
   {
