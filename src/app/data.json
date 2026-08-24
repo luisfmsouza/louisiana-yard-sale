@@ -138,7 +138,7 @@
       "Microwave and dishwasher safe"
     ],
     "category": "Kitchen & Dining",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -262,7 +262,7 @@
       "Original box included"
     ],
     "category": "Kitchen & Dining",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -278,7 +278,7 @@
       "Original box included"
     ],
     "category": "Kitchen & Dining",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -397,7 +397,7 @@
       "Stand included - Wi-Fi + Bluetooth"
     ],
     "category": "Electronics & Smart Home",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
