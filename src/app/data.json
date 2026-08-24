@@ -1,5 +1,20 @@
 [
   {
+    "name": "Decathlon Soporte Bicicleta 100 - Bike Stand",
+    "url": "https://www.decathlon.es/es/p/soporte-bicicleta-100/312969/m8915657",
+    "imageUrl": "/img/decathlon_bike_stand_100.jpeg",
+    "originalPrice": 24.99,
+    "price": 12,
+    "details": [
+      "Fits 20\"-24\" wheel bikes",
+      "Stabilizes bike for parking & basic maintenance",
+      "Easy install - 11mm wrench or 5mm Allen key"
+    ],
+    "category": "Wellness & Fitness",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "IKEA BUMERANG Hangers - Natural Wood (Set of 40)",
     "url": "https://www.ikea.com/es/en/p/bumerang-hanger-natural-30238543/",
     "imageUrl": "/img/ikea_bumerang_hangers_set_40.jpg",
