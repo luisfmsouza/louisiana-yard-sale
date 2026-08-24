@@ -123,7 +123,7 @@
       "Heat-resistant glass - microwave & freezer safe"
     ],
     "category": "Kitchen & Dining",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -201,7 +201,7 @@
     "price": 19,
     "details": ["30 pieces - forks, spoons, knives", "Stainless steel"],
     "category": "Kitchen & Dining",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -216,7 +216,7 @@
       "Transparent measuring base with storage"
     ],
     "category": "Kitchen & Dining",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -450,7 +450,7 @@
       "100 ml dirty-water tank - 0.5 kg"
     ],
     "category": "Home & Cleaning",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
