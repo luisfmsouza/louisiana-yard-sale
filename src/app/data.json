@@ -1,5 +1,20 @@
 [
   {
+    "name": "Philips GC026/80 - Fabric Shaver",
+    "url": "https://www.amazon.es/Philips-GC026-80-accesorio-suministro/dp/B07M8J529S",
+    "imageUrl": "/img/philips_gc026_80_fabric_shaver.jpeg",
+    "originalPrice": 14.9,
+    "price": 7.45,
+    "details": [
+      "8800 RPM motor, large blade head",
+      "3 mesh sizes - safe on all fabrics",
+      "Includes 2x AA batteries, easy-clean container"
+    ],
+    "category": "Home & Cleaning",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Decathlon Soporte Bicicleta 100 - Bike Stand",
     "url": "https://www.decathlon.es/es/p/soporte-bicicleta-100/312969/m8915657",
     "imageUrl": "/img/decathlon_bike_stand_100.jpeg",
