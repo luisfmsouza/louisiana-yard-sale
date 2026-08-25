@@ -1,5 +1,20 @@
 [
   {
+    "name": "Ikea BLANDA MATT - Bamboo Salad Bowl 28cm",
+    "url": "https://www.ikea.com/es/es/p/blanda-matt-bol-ensaladera-bambu-20214340/",
+    "imageUrl": "/img/ikea_blanda_matt_bamboo_bowl_28cm.jpeg",
+    "originalPrice": 14.99,
+    "price": 7,
+    "details": [
+      "28 cm diameter",
+      "Solid bamboo, clear varnish finish",
+      "Hand wash only"
+    ],
+    "category": "Kitchen & Dining",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "IKEA 365+ Bottle with Cork Stopper",
     "url": "https://www.ikea.com/es/es/p/ikea-365-botella-con-tapon-vidrio-incoloro-corcho-90279719/",
     "imageUrl": "/img/ikea_365_bottle_cork_stopper.jpeg",
