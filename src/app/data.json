@@ -1,5 +1,21 @@
 [
   {
+    "name": "IKEA Bedding Set - Duvet, Duvet Cover, Pillow & Fitted Sheet",
+    "url": "https://www.ikea.com/es/es/p/solfibbla-funda-nordica-con-funda-almohada-blanco-verde-raya-40611287/",
+    "imageUrl": "/img/ikea_bedding_set_solfibbla.jpeg",
+    "originalPrice": 48.96,
+    "price": 20,
+    "details": [
+      "SANDGRÄSMÅL summer duvet 150x200 cm",
+      "SOLFIBBLA duvet cover + pillowcase, white/green stripe, 150x200/50x60 cm",
+      "SKOGSFRÄKEN high pillow 50x60 cm",
+      "DVALA fitted sheet, white, 140x200 cm"
+    ],
+    "category": "Home & Cleaning",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "IKEA MIXTUR - Glass Baking Dish",
     "url": "https://www.ikea.com/es/es/p/mixtur-molde-horno-bandeja-vidrio-incoloro-80058761/",
     "imageUrl": "/img/ikea_mixtur_glass_baking_dish.jpeg",
