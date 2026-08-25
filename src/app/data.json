@@ -1,5 +1,20 @@
 [
   {
+    "name": "Ikea IDEALISK Colador - Strainer",
+    "url": "https://www.ikea.com/es/es/p/idealisk-colador-acero-inoxidable-76113785/",
+    "imageUrl": "/img/ikea_idealisk_colador_20cm.jpeg",
+    "originalPrice": 6.99,
+    "price": 3.5,
+    "details": [
+      "20 cm stainless steel strainer",
+      "Rests on pot/sink edges - support legs",
+      "Dishwasher safe"
+    ],
+    "category": "Kitchen & Dining",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Ikea BLANDA MATT - Bamboo Salad Bowl 28cm",
     "url": "https://www.ikea.com/es/es/p/blanda-matt-bol-ensaladera-bambu-20214340/",
     "imageUrl": "/img/ikea_blanda_matt_bamboo_bowl_28cm.jpeg",
