@@ -1,5 +1,20 @@
 [
   {
+    "name": "eufy Smart Scale P2 Pro",
+    "url": "https://www.amazon.es/dp/B09LV2K716",
+    "imageUrl": "/img/eufy_smart_scale_p2_pro.jpeg",
+    "originalPrice": 70,
+    "price": 35,
+    "details": [
+      "WiFi + Bluetooth body composition scale",
+      "Tracks weight, body fat, muscle mass & more",
+      "Syncs with EufyLife app"
+    ],
+    "category": "Wellness & Fitness",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Decathlon Soporte Bicicleta 100 - Bike Stand",
     "url": "https://www.decathlon.es/es/p/soporte-bicicleta-100/312969/m8915657",
     "imageUrl": "/img/decathlon_bike_stand_100.jpeg",
