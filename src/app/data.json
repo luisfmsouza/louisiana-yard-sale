@@ -1,5 +1,20 @@
 [
   {
+    "name": "Ikea IDEALISK Colador - Strainer",
+    "url": "https://www.ikea.com/es/es/p/idealisk-colador-acero-inoxidable-76113785/",
+    "imageUrl": "/img/ikea_idealisk_colador_20cm.jpeg",
+    "originalPrice": 6.99,
+    "price": 3.5,
+    "details": [
+      "20 cm stainless steel strainer",
+      "Rests on pot/sink edges - support legs",
+      "Dishwasher safe"
+    ],
+    "category": "Kitchen & Dining",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Decathlon Soporte Bicicleta 100 - Bike Stand",
     "url": "https://www.decathlon.es/es/p/soporte-bicicleta-100/312969/m8915657",
     "imageUrl": "/img/decathlon_bike_stand_100.jpeg",
