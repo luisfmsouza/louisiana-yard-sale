@@ -15,6 +15,51 @@
     "purchaser": "id"
   },
   {
+    "name": "IKEA MIXTUR - Glass Baking Dish",
+    "url": "https://www.ikea.com/es/es/p/mixtur-molde-horno-bandeja-vidrio-incoloro-80058761/",
+    "imageUrl": "/img/ikea_mixtur_glass_baking_dish.jpeg",
+    "originalPrice": 7.49,
+    "price": 4,
+    "details": [
+      "35 x 25 cm - 3.7 L capacity",
+      "Heat-resistant glass - oven safe up to 280°C",
+      "Microwave and dishwasher safe"
+    ],
+    "category": "Kitchen & Dining",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Philips GC026/80 - Fabric Shaver",
+    "url": "https://www.amazon.es/Philips-GC026-80-accesorio-suministro/dp/B07M8J529S",
+    "imageUrl": "/img/philips_gc026_80_fabric_shaver.jpeg",
+    "originalPrice": 14.9,
+    "price": 7.45,
+    "details": [
+      "8800 RPM motor, large blade head",
+      "3 mesh sizes - safe on all fabrics",
+      "Includes 2x AA batteries, easy-clean container"
+    ],
+    "category": "Home & Cleaning",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "eufy Smart Scale P2 Pro",
+    "url": "https://www.amazon.es/dp/B09LV2K716",
+    "imageUrl": "/img/eufy_smart_scale_p2_pro.jpeg",
+    "originalPrice": 70,
+    "price": 35,
+    "details": [
+      "WiFi + Bluetooth body composition scale",
+      "Tracks weight, body fat, muscle mass & more",
+      "Syncs with EufyLife app"
+    ],
+    "category": "Wellness & Fitness",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "Decathlon Soporte Bicicleta 100 - Bike Stand",
     "url": "https://www.decathlon.es/es/p/soporte-bicicleta-100/312969/m8915657",
     "imageUrl": "/img/decathlon_bike_stand_100.jpeg",
