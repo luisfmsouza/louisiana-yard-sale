@@ -1,5 +1,20 @@
 [
   {
+    "name": "IKEA 365+ Bottle with Cork Stopper",
+    "url": "https://www.ikea.com/es/es/p/ikea-365-botella-con-tapon-vidrio-incoloro-corcho-90279719/",
+    "imageUrl": "/img/ikea_365_bottle_cork_stopper.jpeg",
+    "originalPrice": 3.99,
+    "price": 2,
+    "details": [
+      "1 liter, heat-resistant glass",
+      "Cork stopper, dishwasher safe",
+      "27 cm tall"
+    ],
+    "category": "Kitchen & Dining",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "IKEA MIXTUR - Glass Baking Dish",
     "url": "https://www.ikea.com/es/es/p/mixtur-molde-horno-bandeja-vidrio-incoloro-80058761/",
     "imageUrl": "/img/ikea_mixtur_glass_baking_dish.jpeg",
