@@ -16,6 +16,51 @@
     "purchaser": "id"
   },
   {
+    "name": "Ikea IDEALISK Colador - Strainer",
+    "url": "https://www.ikea.com/es/es/p/idealisk-colador-acero-inoxidable-76113785/",
+    "imageUrl": "/img/ikea_idealisk_colador_20cm.jpeg",
+    "originalPrice": 6.99,
+    "price": 3.5,
+    "details": [
+      "20 cm stainless steel strainer",
+      "Rests on pot/sink edges - support legs",
+      "Dishwasher safe"
+    ],
+    "category": "Kitchen & Dining",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "Ikea BLANDA MATT - Bamboo Salad Bowl 28cm",
+    "url": "https://www.ikea.com/es/es/p/blanda-matt-bol-ensaladera-bambu-20214340/",
+    "imageUrl": "/img/ikea_blanda_matt_bamboo_bowl_28cm.jpeg",
+    "originalPrice": 14.99,
+    "price": 7,
+    "details": [
+      "28 cm diameter",
+      "Solid bamboo, clear varnish finish",
+      "Hand wash only"
+    ],
+    "category": "Kitchen & Dining",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
+    "name": "IKEA 365+ Bottle with Cork Stopper",
+    "url": "https://www.ikea.com/es/es/p/ikea-365-botella-con-tapon-vidrio-incoloro-corcho-90279719/",
+    "imageUrl": "/img/ikea_365_bottle_cork_stopper.jpeg",
+    "originalPrice": 3.99,
+    "price": 2,
+    "details": [
+      "1 liter, heat-resistant glass",
+      "Cork stopper, dishwasher safe",
+      "27 cm tall"
+    ],
+    "category": "Kitchen & Dining",
+    "state": "available",
+    "purchaser": "id"
+  },
+  {
     "name": "IKEA MIXTUR - Glass Baking Dish",
     "url": "https://www.ikea.com/es/es/p/mixtur-molde-horno-bandeja-vidrio-incoloro-80058761/",
     "imageUrl": "/img/ikea_mixtur_glass_baking_dish.jpeg",
