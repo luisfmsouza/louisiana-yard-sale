@@ -173,7 +173,7 @@
       "Chrome base - up to 150 kg"
     ],
     "category": "Furniture",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -289,7 +289,7 @@
       "Plus additional matching pasta preparation pan"
     ],
     "category": "Kitchen & Dining",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -315,18 +315,18 @@
     "price": 4,
     "details": ["Manual knife sharpener", "Black", "Compact design"],
     "category": "Kitchen & Dining",
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
     "name": "Ikea ANDLIG - 3-Piece Kitchen Knife Set",
     "url": "https://www.ikea.com/es/en/p/andlig-3-piece-knife-set-light-grey-white-70257624/",
     "imageUrl": "/img/ikea_baeby_knife_set.jpeg",
-    "originalPrice": 39.99,
-    "price": 19,
+    "originalPrice": 7.99,
+    "price": 4,
     "details": ["3 pieces - Chef's knife, utility knife, paring knife", "Light grey and white handles", "Extra 2 other knifes"],
     "category": "Kitchen & Dining",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
