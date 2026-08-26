@@ -173,7 +173,7 @@
       "Chrome base - up to 150 kg"
     ],
     "category": "Furniture",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -289,7 +289,7 @@
       "Plus additional matching pasta preparation pan"
     ],
     "category": "Kitchen & Dining",
-    "state": "reserved",
+    "state": "sold",
     "purchaser": "id"
   },
   {
@@ -315,7 +315,7 @@
     "price": 4,
     "details": ["Manual knife sharpener", "Black", "Compact design"],
     "category": "Kitchen & Dining",
-    "state": "available",
+    "state": "sold",
     "purchaser": "id"
   },
   {
